@@ -1,0 +1,25 @@
+PLINK v2.00a4LM 64-bit Intel (29 Mar 2023)
+Options in effect:
+  --bfile Group2_subset
+  --glm allow-no-covars
+  --out GWAS_result/Group2
+  --pheno ukb_clean.tsv
+
+Hostname: c7.private
+Working directory: /net/bmc-lab5/data/kellis/users/lucytian/ukbb
+Start time: Sat May  6 03:53:30 2023
+
+Random number seed: 1683359610
+128932 MiB RAM detected, ~123025 available; reserving 64466 MiB for main
+workspace.
+Using up to 16 threads (change this with --threads).
+601 samples (295 females, 305 males, 1 ambiguous; 601 founders) loaded from
+Group2_subset.fam.
+504390 variants loaded from Group2_subset.bim.
+249 quantitative phenotypes loaded.
+Calculating allele frequencies... done.
+--glm linear regression on quantitative phenotypes #1-240: done.
+--glm linear regression on quantitative phenotypes #241-249: done.
+Results written to GWAS_result/Group2.<phenotype name>.glm.linear .
+
+End time: Sat May  6 03:54:16 2023
