@@ -14,3 +14,10 @@ The outputs from SHEPHERD are then subject to analysis by APRILE, GOA and ChatGP
 #### SHEPHERD Installation
 A detailed steps to SHEPHERD installation and set-up can be found here: https://github.com/mims-harvard/SHEPHERD
 
+### Data Preprocessing
+#### SHEPHERD Data Preprocessing
+The SHEPHERD pre-trained model takes in a jsonlines file, where each json represents a single patient and includes the patient's ID, positive phenotype coded by the Human Phenotype Ontology (HPO), and candidate genes in Ensembl IDs. Given your list of gene names, you can find steps of conversion to Ensembl IDs in *preprocess.ipynb* under the **shepherd** directory. Relevant files for necessary conversion are included as well. 
+
+#### GWAS Data Preprocessing
+Genotype data for our study was obtained from the UKB Exome 200K Project (source: \url{https://www.medrxiv.org/content/10.1101/2020.11.02.20222232v1}). To convert the exome data suitable for GWAS analysis, follow steps in the *plink_pipeline.sh* under the **ukb** directory.
+
