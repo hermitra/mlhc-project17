@@ -1,0 +1,40 @@
+,name,namespace,id,p_fdr_bh,gene,symbol
+0,potassium ion transmembrane transport,biological_process,GO:0071805,0.0023449213118885925,9992,KCNE2
+1,potassium ion transmembrane transport,biological_process,GO:0071805,0.0023449213118885925,3786,KCNQ3
+2,potassium ion transmembrane transport,biological_process,GO:0071805,0.0023449213118885925,3757,KCNH2
+3,regulation of membrane repolarization,biological_process,GO:0060306,0.0023449213118885925,9992,KCNE2
+4,regulation of membrane repolarization,biological_process,GO:0060306,0.0023449213118885925,3757,KCNH2
+5,membrane repolarization,biological_process,GO:0086009,0.0023449213118885925,9992,KCNE2
+6,membrane repolarization,biological_process,GO:0086009,0.0023449213118885925,3757,KCNH2
+7,membrane repolarization during action potential,biological_process,GO:0086011,0.0023449213118885925,9992,KCNE2
+8,membrane repolarization during action potential,biological_process,GO:0086011,0.0023449213118885925,3757,KCNH2
+9,membrane repolarization during ventricular cardiac muscle cell action potential,biological_process,GO:0098915,0.002660250132511828,9992,KCNE2
+10,membrane repolarization during ventricular cardiac muscle cell action potential,biological_process,GO:0098915,0.002660250132511828,3757,KCNH2
+11,potassium ion export across plasma membrane,biological_process,GO:0097623,0.003260844282582705,9992,KCNE2
+12,potassium ion export across plasma membrane,biological_process,GO:0097623,0.003260844282582705,3757,KCNH2
+13,ventricular cardiac muscle cell action potential,biological_process,GO:0086005,0.003260844282582705,9992,KCNE2
+14,ventricular cardiac muscle cell action potential,biological_process,GO:0086005,0.003260844282582705,3757,KCNH2
+15,regulation of potassium ion transmembrane transport,biological_process,GO:1901379,0.003260844282582705,9992,KCNE2
+16,regulation of potassium ion transmembrane transport,biological_process,GO:1901379,0.003260844282582705,3757,KCNH2
+17,regulation of ventricular cardiac muscle cell membrane repolarization,biological_process,GO:0060307,0.0039779914100758346,9992,KCNE2
+18,regulation of ventricular cardiac muscle cell membrane repolarization,biological_process,GO:0060307,0.0039779914100758346,3757,KCNH2
+19,regulation of heart rate by cardiac conduction,biological_process,GO:0086091,0.014668954837851913,9992,KCNE2
+20,regulation of heart rate by cardiac conduction,biological_process,GO:0086091,0.014668954837851913,3757,KCNH2
+21,potassium ion import across plasma membrane,biological_process,GO:1990573,0.015331933857586189,9992,KCNE2
+22,potassium ion import across plasma membrane,biological_process,GO:1990573,0.015331933857586189,3757,KCNH2
+23,cellular response to xenobiotic stimulus,biological_process,GO:0071466,0.029509315226669084,9992,KCNE2
+24,cellular response to xenobiotic stimulus,biological_process,GO:0071466,0.029509315226669084,3757,KCNH2
+25,voltage-gated potassium channel complex,cellular_component,GO:0008076,8.205325497292421e-05,9992,KCNE2
+26,voltage-gated potassium channel complex,cellular_component,GO:0008076,8.205325497292421e-05,3786,KCNQ3
+27,voltage-gated potassium channel complex,cellular_component,GO:0008076,8.205325497292421e-05,3757,KCNH2
+28,cell surface,cellular_component,GO:0009986,0.0232934017435491,9992,KCNE2
+29,cell surface,cellular_component,GO:0009986,0.0232934017435491,3786,KCNQ3
+30,cell surface,cellular_component,GO:0009986,0.0232934017435491,3757,KCNH2
+31,voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization,molecular_function,GO:1902282,0.004926191032739653,9992,KCNE2
+32,voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization,molecular_function,GO:1902282,0.004926191032739653,3757,KCNH2
+33,inward rectifier potassium channel activity,molecular_function,GO:0005242,0.00854279054512867,9992,KCNE2
+34,inward rectifier potassium channel activity,molecular_function,GO:0005242,0.00854279054512867,3757,KCNH2
+35,delayed rectifier potassium channel activity,molecular_function,GO:0005251,0.00854279054512867,9992,KCNE2
+36,delayed rectifier potassium channel activity,molecular_function,GO:0005251,0.00854279054512867,3757,KCNH2
+37,voltage-gated potassium channel activity,molecular_function,GO:0005249,0.016324492643583193,3786,KCNQ3
+38,voltage-gated potassium channel activity,molecular_function,GO:0005249,0.016324492643583193,3757,KCNH2
