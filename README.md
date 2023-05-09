@@ -34,5 +34,4 @@ Our SHEPERD results are stored in **shepherd/results** with prefix "dry_run" and
 ### Result Analysis
 #### APRILE
 #### GOA
-=======
->>>>>>> parent of 15d6c28 (Update README.md)
+
