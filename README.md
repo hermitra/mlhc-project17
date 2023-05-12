@@ -38,5 +38,5 @@ The Aprile model takes in the gene ontology DAG, a drug csv, a phenotype to gene
 
 ### Final Poster
 
-![Example image](mlhc_poster.png)
+![Final Poster](mlhc_poster.jpg)
 
