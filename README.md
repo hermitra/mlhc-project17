@@ -33,5 +33,5 @@ Our SHEPERD results are stored in **shepherd/results** with prefix "dry_run" and
 
 ### Result Analysis
 #### APRILE
+The Aprile model takes in the gene ontology DAG, a drug csv, a phenotype to genes mapping, and a pkl file that contains drug paths and associated proteomic paths.
 #### GOA
-
