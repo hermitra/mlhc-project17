@@ -1,0 +1,1841 @@
+	 ncbi_gene_id	gene_symbol	hpo_id	hpo_name
+3473	238	ALK	HP:0011976	Elevated urinary catecholamines
+3474	238	ALK	HP:0004375	Neoplasm of the nervous system
+7118	523	ATP6V1A	HP:0002465	Poor speech
+7119	523	ATP6V1A	HP:0010954	Hypoplastic right heart
+7120	523	ATP6V1A	HP:0009933	Narrow naris
+7121	523	ATP6V1A	HP:0025167	Fragmented elastic fibers in the dermis
+7122	523	ATP6V1A	HP:0002421	Poor head control
+7123	523	ATP6V1A	HP:0003758	Reduced subcutaneous adipose tissue
+7124	523	ATP6V1A	HP:0001298	Encephalopathy
+7125	523	ATP6V1A	HP:0001290	Generalized hypotonia
+7126	523	ATP6V1A	HP:0001272	Cerebellar atrophy
+7127	523	ATP6V1A	HP:0025244	Subretinal pigment epithelium hemorrhage
+7128	523	ATP6V1A	HP:0001273	Abnormal corpus callosum morphology
+7129	523	ATP6V1A	HP:0001270	Motor delay
+7130	523	ATP6V1A	HP:0001268	Mental deterioration
+7131	523	ATP6V1A	HP:0001288	Gait disturbance
+7132	523	ATP6V1A	HP:0001285	Spastic tetraparesis
+7133	523	ATP6V1A	HP:0001250	Seizure
+7134	523	ATP6V1A	HP:0001251	Ataxia
+7135	523	ATP6V1A	HP:0001249	Intellectual disability
+7136	523	ATP6V1A	HP:0001265	Hyporeflexia
+7137	523	ATP6V1A	HP:0001263	Global developmental delay
+7138	523	ATP6V1A	HP:0001257	Spasticity
+7139	523	ATP6V1A	HP:0025201	Abnormal circulating apolipoprotein concentration
+7140	523	ATP6V1A	HP:0100874	Thick hair
+7141	523	ATP6V1A	HP:0007392	Excessive wrinkled skin
+7142	523	ATP6V1A	HP:0008689	Bilateral cryptorchidism
+7143	523	ATP6V1A	HP:0010989	Abnormality of the intrinsic pathway
+7144	523	ATP6V1A	HP:0002540	Inability to walk
+7145	523	ATP6V1A	HP:0002521	Hypsarrhythmia
+7146	523	ATP6V1A	HP:0003828	Variable expressivity
+7147	523	ATP6V1A	HP:0002509	Limb hypertonia
+7148	523	ATP6V1A	HP:0001374	Congenital hip dislocation
+7149	523	ATP6V1A	HP:0000054	Micropenis
+7150	523	ATP6V1A	HP:0001385	Hip dysplasia
+7151	523	ATP6V1A	HP:0000023	Inguinal hernia
+7152	523	ATP6V1A	HP:0001347	Hyperreflexia
+7153	523	ATP6V1A	HP:0008897	Postnatal growth retardation
+7154	523	ATP6V1A	HP:0007552	Abnormal subcutaneous fat tissue distribution
+7155	523	ATP6V1A	HP:0007457	Prominent veins on trunk
+7156	523	ATP6V1A	HP:0001344	Absent speech
+7157	523	ATP6V1A	HP:0001339	Lissencephaly
+7158	523	ATP6V1A	HP:0000007	Autosomal recessive inheritance
+7159	523	ATP6V1A	HP:0001337	Tremor
+7160	523	ATP6V1A	HP:0000006	Autosomal dominant inheritance
+7161	523	ATP6V1A	HP:0001336	Myoclonus
+7162	523	ATP6V1A	HP:0001305	Dandy-Walker malformation
+7163	523	ATP6V1A	HP:0001302	Pachygyria
+7164	523	ATP6V1A	HP:0001321	Cerebellar hypoplasia
+7165	523	ATP6V1A	HP:0001315	Reduced tendon reflexes
+7166	523	ATP6V1A	HP:0001476	Delayed closure of the anterior fontanelle
+7167	523	ATP6V1A	HP:0008947	Infantile muscular hypotonia
+7168	523	ATP6V1A	HP:0002761	Generalized joint laxity
+7169	523	ATP6V1A	HP:0002751	Kyphoscoliosis
+7170	523	ATP6V1A	HP:0002020	Gastroesophageal reflux
+7171	523	ATP6V1A	HP:0005989	Redundant neck skin
+7172	523	ATP6V1A	HP:0002097	Emphysema
+7173	523	ATP6V1A	HP:0002063	Rigidity
+7174	523	ATP6V1A	HP:0002079	Hypoplasia of the corpus callosum
+7175	523	ATP6V1A	HP:0002059	Cerebral atrophy
+7176	523	ATP6V1A	HP:0011712	Right bundle branch block
+7177	523	ATP6V1A	HP:0002133	Status epilepticus
+7178	523	ATP6V1A	HP:0002126	Polymicrogyria
+7179	523	ATP6V1A	HP:0003429	CNS hypomyelination
+7180	523	ATP6V1A	HP:0002107	Pneumothorax
+7181	523	ATP6V1A	HP:0002187	Intellectual disability, profound
+7182	523	ATP6V1A	HP:0002171	Gliosis
+7183	523	ATP6V1A	HP:0100710	Impulsivity
+7184	523	ATP6V1A	HP:0002208	Coarse hair
+7185	523	ATP6V1A	HP:0200134	Epileptic encephalopathy
+7186	523	ATP6V1A	HP:0007018	Attention deficit hyperactivity disorder
+7187	523	ATP6V1A	HP:0011968	Feeding difficulties
+7188	523	ATP6V1A	HP:0002361	Psychomotor deterioration
+7189	523	ATP6V1A	HP:0002376	Developmental regression
+7190	523	ATP6V1A	HP:0002355	Difficulty walking
+7191	523	ATP6V1A	HP:0002317	Unsteady gait
+7192	523	ATP6V1A	HP:0010844	EEG with multifocal slow activity
+7193	523	ATP6V1A	HP:0100660	Dyskinesia
+7194	523	ATP6V1A	HP:0004970	Ascending tubular aorta aneurysm
+7195	523	ATP6V1A	HP:0006891	Thick cerebral cortex
+7196	523	ATP6V1A	HP:0000639	Nystagmus
+7197	523	ATP6V1A	HP:0000648	Optic atrophy
+7198	523	ATP6V1A	HP:0000612	Iris coloboma
+7199	523	ATP6V1A	HP:0000621	Entropion
+7200	523	ATP6V1A	HP:0000670	Carious teeth
+7201	523	ATP6V1A	HP:0000668	Hypodontia
+7202	523	ATP6V1A	HP:0004322	Short stature
+7203	523	ATP6V1A	HP:0004305	Involuntary movements
+7204	523	ATP6V1A	HP:0031936	Delayed ability to walk
+7205	523	ATP6V1A	HP:0000750	Delayed speech and language development
+7206	523	ATP6V1A	HP:0000717	Autism
+7207	523	ATP6V1A	HP:0000726	Dementia
+7208	523	ATP6V1A	HP:0000708	Atypical behavior
+7209	523	ATP6V1A	HP:0011443	Abnormality of coordination
+7210	523	ATP6V1A	HP:0009125	Lipodystrophy
+7211	523	ATP6V1A	HP:0003199	Decreased muscle mass
+7212	523	ATP6V1A	HP:0003196	Short nose
+7213	523	ATP6V1A	HP:0003160	Abnormal isoelectric focusing of serum transferrin
+7214	523	ATP6V1A	HP:0034392	Joint contracture
+7215	523	ATP6V1A	HP:0000973	Cutis laxa
+7216	523	ATP6V1A	HP:0008070	Sparse hair
+7217	523	ATP6V1A	HP:0000278	Retrognathia
+7218	523	ATP6V1A	HP:0000298	Mask-like facies
+7219	523	ATP6V1A	HP:0000272	Malar flattening
+7220	523	ATP6V1A	HP:0002827	Hip dislocation
+7221	523	ATP6V1A	HP:0000253	Progressive microcephaly
+7222	523	ATP6V1A	HP:0000252	Microcephaly
+7223	523	ATP6V1A	HP:0001582	Redundant skin
+7224	523	ATP6V1A	HP:0000218	High palate
+7225	523	ATP6V1A	HP:0001558	Decreased fetal movement
+7226	523	ATP6V1A	HP:0001508	Failure to thrive
+7227	523	ATP6V1A	HP:0001519	Disproportionate tall stature
+7228	523	ATP6V1A	HP:0001511	Intrauterine growth retardation
+7229	523	ATP6V1A	HP:0012385	Camptodactyly
+7230	523	ATP6V1A	HP:0011003	High myopia
+7231	523	ATP6V1A	HP:0000369	Low-set ears
+7232	523	ATP6V1A	HP:0000343	Long philtrum
+7233	523	ATP6V1A	HP:0000348	High forehead
+7234	523	ATP6V1A	HP:0000319	Smooth philtrum
+7235	523	ATP6V1A	HP:0000316	Hypertelorism
+7236	523	ATP6V1A	HP:0000325	Triangular face
+7237	523	ATP6V1A	HP:0001639	Hypertrophic cardiomyopathy
+7238	523	ATP6V1A	HP:0001635	Congestive heart failure
+7239	523	ATP6V1A	HP:0000307	Pointed chin
+7240	523	ATP6V1A	HP:0001631	Atrial septal defect
+7241	523	ATP6V1A	HP:0000400	Macrotia
+7242	523	ATP6V1A	HP:0005272	Prominent nasolabial fold
+7243	523	ATP6V1A	HP:0000486	Strabismus
+7244	523	ATP6V1A	HP:0000494	Downslanted palpebral fissures
+7245	523	ATP6V1A	HP:0000463	Anteverted nares
+7246	523	ATP6V1A	HP:0012444	Brain atrophy
+7247	523	ATP6V1A	HP:0012447	Abnormal myelination
+7248	523	ATP6V1A	HP:0000455	Broad nasal tip
+7249	523	ATP6V1A	HP:0000414	Bulbous nose
+7250	523	ATP6V1A	HP:0000411	Protruding ear
+7251	523	ATP6V1A	HP:0001762	Talipes equinovarus
+7252	523	ATP6V1A	HP:0000431	Wide nasal bridge
+7253	523	ATP6V1A	HP:0000518	Cataract
+7254	523	ATP6V1A	HP:0000508	Ptosis
+7255	523	ATP6V1A	HP:0000504	Abnormality of vision
+7256	523	ATP6V1A	HP:0000581	Blepharophimosis
+7257	523	ATP6V1A	HP:0012547	Abnormal involuntary eye movements
+7258	523	ATP6V1A	HP:0000540	Hypermetropia
+7259	523	ATP6V1A	HP:0000546	Retinal degeneration
+11566	767	CA8	HP:0009878	Cerebellar ataxia associated with quadrupedal gait
+11567	767	CA8	HP:0001288	Gait disturbance
+11568	767	CA8	HP:0001256	Intellectual disability, mild
+11569	767	CA8	HP:0001250	Seizure
+11570	767	CA8	HP:0001252	Hypotonia
+11571	767	CA8	HP:0001251	Ataxia
+11572	767	CA8	HP:0001249	Intellectual disability
+11573	767	CA8	HP:0001260	Dysarthria
+11574	767	CA8	HP:0001350	Slurred speech
+11575	767	CA8	HP:0001347	Hyperreflexia
+11576	767	CA8	HP:0000007	Autosomal recessive inheritance
+11577	767	CA8	HP:0001337	Tremor
+11578	767	CA8	HP:0003577	Congenital onset
+11579	767	CA8	HP:0004322	Short stature
+11580	767	CA8	HP:0100021	Cerebral palsy
+11581	767	CA8	HP:0100022	Abnormality of movement
+11582	767	CA8	HP:0003202	Skeletal muscle atrophy
+11583	767	CA8	HP:0000486	Strabismus
+11584	767	CA8	HP:0000478	Abnormality of the eye
+11585	767	CA8	HP:0000518	Cataract
+11586	767	CA8	HP:0000504	Abnormality of vision
+11595	773	CACNA1A	HP:0002486	Myotonia
+11596	773	CACNA1A	HP:0002483	Bulbar signs
+11597	773	CACNA1A	HP:0001152	Saccadic smooth pursuit
+11598	773	CACNA1A	HP:0001125	Transient unilateral blurring of vision
+11599	773	CACNA1A	HP:0002457	Abnormal head movements
+11600	773	CACNA1A	HP:0002442	Dyscalculia
+11601	773	CACNA1A	HP:0007270	Atypical absence seizure
+11602	773	CACNA1A	HP:0007256	Abnormal pyramidal sign
+11603	773	CACNA1A	HP:0007240	Progressive gait ataxia
+11604	773	CACNA1A	HP:0007209	Facial paralysis
+11605	773	CACNA1A	HP:0002421	Poor head control
+11606	773	CACNA1A	HP:0003743	Genetic anticipation
+11607	773	CACNA1A	HP:0001298	Encephalopathy
+11608	773	CACNA1A	HP:0001290	Generalized hypotonia
+11609	773	CACNA1A	HP:0001276	Hypertonia
+11610	773	CACNA1A	HP:0001272	Cerebellar atrophy
+11611	773	CACNA1A	HP:0001273	Abnormal corpus callosum morphology
+11612	773	CACNA1A	HP:0001269	Hemiparesis
+11613	773	CACNA1A	HP:0001268	Mental deterioration
+11614	773	CACNA1A	HP:0001289	Confusion
+11615	773	CACNA1A	HP:0001284	Areflexia
+11616	773	CACNA1A	HP:0001250	Seizure
+11617	773	CACNA1A	HP:0001252	Hypotonia
+11618	773	CACNA1A	HP:0001251	Ataxia
+11619	773	CACNA1A	HP:0002579	Gastrointestinal dysmotility
+11620	773	CACNA1A	HP:0001249	Intellectual disability
+11621	773	CACNA1A	HP:0001265	Hyporeflexia
+11622	773	CACNA1A	HP:0001266	Choreoathetosis
+11623	773	CACNA1A	HP:0001260	Dysarthria
+11624	773	CACNA1A	HP:0001263	Global developmental delay
+11625	773	CACNA1A	HP:0001257	Spasticity
+11626	773	CACNA1A	HP:0001259	Coma
+11627	773	CACNA1A	HP:0008765	Auditory hallucinations
+11628	773	CACNA1A	HP:0410263	Brain imaging abnormality
+11629	773	CACNA1A	HP:0007359	Focal-onset seizure
+11630	773	CACNA1A	HP:0002521	Hypsarrhythmia
+11631	773	CACNA1A	HP:0002527	Falls
+11632	773	CACNA1A	HP:0003829	Typified by incomplete penetrance
+11633	773	CACNA1A	HP:0002509	Limb hypertonia
+11634	773	CACNA1A	HP:0002505	Loss of ambulation
+11635	773	CACNA1A	HP:0012075	Personality disorder
+11636	773	CACNA1A	HP:0012044	Seesaw nystagmus
+11637	773	CACNA1A	HP:0001371	Flexion contracture
+11638	773	CACNA1A	HP:0001350	Slurred speech
+11639	773	CACNA1A	HP:0001347	Hyperreflexia
+11640	773	CACNA1A	HP:0032506	Alien limb phenomenon
+11641	773	CACNA1A	HP:0031179	Nuchal rigidity
+11642	773	CACNA1A	HP:0001332	Dystonia
+11643	773	CACNA1A	HP:0001324	Muscle weakness
+11644	773	CACNA1A	HP:0001337	Tremor
+11645	773	CACNA1A	HP:0000006	Autosomal dominant inheritance
+11646	773	CACNA1A	HP:0001336	Myoclonus
+11647	773	CACNA1A	HP:0001310	Dysmetria
+11648	773	CACNA1A	HP:0001308	Tongue fasciculations
+11649	773	CACNA1A	HP:0001315	Reduced tendon reflexes
+11650	773	CACNA1A	HP:0012194	Episodic hemiplegia
+11651	773	CACNA1A	HP:0007670	Abnormal vestibulo-ocular reflex
+11652	773	CACNA1A	HP:0008959	Distal upper limb muscle weakness
+11653	773	CACNA1A	HP:0031284	Flushing
+11654	773	CACNA1A	HP:0002714	Downturned corners of mouth
+11655	773	CACNA1A	HP:0002020	Gastroesophageal reflux
+11656	773	CACNA1A	HP:0002019	Constipation
+11657	773	CACNA1A	HP:0002017	Nausea and vomiting
+11658	773	CACNA1A	HP:0002014	Diarrhea
+11659	773	CACNA1A	HP:0002015	Dysphagia
+11660	773	CACNA1A	HP:0002013	Vomiting
+11661	773	CACNA1A	HP:0002083	Migraine without aura
+11662	773	CACNA1A	HP:0002080	Intention tremor
+11663	773	CACNA1A	HP:0002098	Respiratory distress
+11664	773	CACNA1A	HP:0002069	Bilateral tonic-clonic seizure
+11665	773	CACNA1A	HP:0002066	Gait ataxia
+11666	773	CACNA1A	HP:0002063	Rigidity
+11667	773	CACNA1A	HP:0003392	First dorsal interossei muscle weakness
+11668	773	CACNA1A	HP:0002078	Truncal ataxia
+11669	773	CACNA1A	HP:0002076	Migraine
+11670	773	CACNA1A	HP:0002077	Migraine with aura
+11671	773	CACNA1A	HP:0002072	Chorea
+11672	773	CACNA1A	HP:0002073	Progressive cerebellar ataxia
+11673	773	CACNA1A	HP:0002039	Anorexia
+11674	773	CACNA1A	HP:0002059	Cerebral atrophy
+11675	773	CACNA1A	HP:0100576	Amaurosis fugax
+11676	773	CACNA1A	HP:0003487	Babinski sign
+11677	773	CACNA1A	HP:0002123	Generalized myoclonic seizure
+11678	773	CACNA1A	HP:0002120	Cerebral cortical atrophy
+11679	773	CACNA1A	HP:0002133	Status epilepticus
+11680	773	CACNA1A	HP:0002131	Episodic ataxia
+11681	773	CACNA1A	HP:0002104	Apnea
+11682	773	CACNA1A	HP:0002181	Cerebral edema
+11683	773	CACNA1A	HP:0002167	Abnormality of speech or vocalization
+11684	773	CACNA1A	HP:0002172	Postural instability
+11685	773	CACNA1A	HP:0010544	Vertical nystagmus
+11686	773	CACNA1A	HP:0010545	Downbeat nystagmus
+11687	773	CACNA1A	HP:0003401	Paresthesia
+11688	773	CACNA1A	HP:0002263	Exaggerated cupid's bow
+11689	773	CACNA1A	HP:0003593	Infantile onset
+11690	773	CACNA1A	HP:0002273	Tetraparesis
+11691	773	CACNA1A	HP:0003577	Congenital onset
+11692	773	CACNA1A	HP:0003587	Insidious onset
+11693	773	CACNA1A	HP:0100710	Impulsivity
+11694	773	CACNA1A	HP:0200149	CSF lymphocytic pleiocytosis
+11695	773	CACNA1A	HP:0200136	Oral-pharyngeal dysphagia
+11696	773	CACNA1A	HP:0200134	Epileptic encephalopathy
+11697	773	CACNA1A	HP:0007018	Attention deficit hyperactivity disorder
+11698	773	CACNA1A	HP:0032044	Decreased vigilance
+11699	773	CACNA1A	HP:0011968	Feeding difficulties
+11700	773	CACNA1A	HP:0002384	Focal impaired awareness seizure
+11701	773	CACNA1A	HP:0002381	Aphasia
+11702	773	CACNA1A	HP:0002367	Visual hallucinations
+11703	773	CACNA1A	HP:0002363	Abnormal brainstem morphology
+11704	773	CACNA1A	HP:0002359	Frequent falls
+11705	773	CACNA1A	HP:0002376	Developmental regression
+11706	773	CACNA1A	HP:0002344	Progressive neurologic deterioration
+11707	773	CACNA1A	HP:0003676	Progressive
+11708	773	CACNA1A	HP:0002355	Difficulty walking
+11709	773	CACNA1A	HP:0002353	EEG abnormality
+11710	773	CACNA1A	HP:0002321	Vertigo
+11711	773	CACNA1A	HP:0002317	Unsteady gait
+11712	773	CACNA1A	HP:0002315	Headache
+11713	773	CACNA1A	HP:0002329	Drowsiness
+11714	773	CACNA1A	HP:0010844	EEG with multifocal slow activity
+11715	773	CACNA1A	HP:0010835	Dissociated sensory loss
+11716	773	CACNA1A	HP:0010833	Spontaneous pain sensation
+11717	773	CACNA1A	HP:0100660	Dyskinesia
+11718	773	CACNA1A	HP:0010829	Impaired temperature sensation
+11719	773	CACNA1A	HP:0010819	Atonic seizure
+11720	773	CACNA1A	HP:0010818	Generalized tonic seizure
+11721	773	CACNA1A	HP:0007166	Paroxysmal dyskinesia
+11722	773	CACNA1A	HP:0002301	Hemiplegia
+11723	773	CACNA1A	HP:0003623	Neonatal onset
+11724	773	CACNA1A	HP:0002311	Incoordination
+11725	773	CACNA1A	HP:0002305	Athetosis
+11726	773	CACNA1A	HP:0003621	Juvenile onset
+11727	773	CACNA1A	HP:0030511	Bradyopsia
+11728	773	CACNA1A	HP:0006855	Cerebellar vermis atrophy
+11729	773	CACNA1A	HP:0000640	Gaze-evoked nystagmus
+11730	773	CACNA1A	HP:0000639	Nystagmus
+11731	773	CACNA1A	HP:0000651	Diplopia
+11732	773	CACNA1A	HP:0000648	Optic atrophy
+11733	773	CACNA1A	HP:0000643	Blepharospasm
+11734	773	CACNA1A	HP:0001944	Dehydration
+11735	773	CACNA1A	HP:0001945	Fever
+11736	773	CACNA1A	HP:0000657	Oculomotor apraxia
+11737	773	CACNA1A	HP:0000668	Hypodontia
+11738	773	CACNA1A	HP:0004322	Short stature
+11739	773	CACNA1A	HP:0004305	Involuntary movements
+11740	773	CACNA1A	HP:0031931	Ocular flutter
+11741	773	CACNA1A	HP:0000752	Hyperactivity
+11742	773	CACNA1A	HP:0000763	Sensory neuropathy
+11743	773	CACNA1A	HP:0000737	Irritability
+11744	773	CACNA1A	HP:0000739	Anxiety
+11745	773	CACNA1A	HP:0000750	Delayed speech and language development
+11746	773	CACNA1A	HP:0000741	Apathy
+11747	773	CACNA1A	HP:0000718	Aggressive behavior
+11748	773	CACNA1A	HP:0000717	Autism
+11749	773	CACNA1A	HP:0000712	Emotional lability
+11750	773	CACNA1A	HP:0000713	Agitation
+11751	773	CACNA1A	HP:0000729	Autistic behavior
+11752	773	CACNA1A	HP:0000709	Psychosis
+11753	773	CACNA1A	HP:0000708	Atypical behavior
+11754	773	CACNA1A	HP:0011499	Mydriasis
+11755	773	CACNA1A	HP:0011468	Facial tics
+11756	773	CACNA1A	HP:0011462	Young adult onset
+11757	773	CACNA1A	HP:0011443	Abnormality of coordination
+11758	773	CACNA1A	HP:0012758	Neurodevelopmental delay
+11759	773	CACNA1A	HP:0030786	Photopsia
+11760	773	CACNA1A	HP:0003270	Abdominal distention
+11761	773	CACNA1A	HP:0045074	Thin eyebrow
+11762	773	CACNA1A	HP:0030842	Choking episodes
+11763	773	CACNA1A	HP:0000980	Pallor
+11764	773	CACNA1A	HP:0000975	Hyperhidrosis
+11765	773	CACNA1A	HP:0011675	Arrhythmia
+11766	773	CACNA1A	HP:0000297	Facial hypotonia
+11767	773	CACNA1A	HP:0005135	Abnormal T-wave
+11768	773	CACNA1A	HP:0007772	Impaired smooth pursuit
+11769	773	CACNA1A	HP:0012229	CSF pleocytosis
+11770	773	CACNA1A	HP:0032649	Skewfoot
+11771	773	CACNA1A	HP:0000252	Microcephaly
+11772	773	CACNA1A	HP:0032660	Convulsive status epilepticus
+11773	773	CACNA1A	HP:0001558	Decreased fetal movement
+11774	773	CACNA1A	HP:0001508	Failure to thrive
+11775	773	CACNA1A	HP:0002835	Aspiration
+11776	773	CACNA1A	HP:0002922	Increased CSF protein concentration
+11777	773	CACNA1A	HP:0000365	Hearing impairment
+11778	773	CACNA1A	HP:0000360	Tinnitus
+11779	773	CACNA1A	HP:0011024	Abnormality of the gastrointestinal tract
+11780	773	CACNA1A	HP:0012332	Abnormal autonomic nervous system physiology
+11781	773	CACNA1A	HP:0032792	Tonic seizure
+11782	773	CACNA1A	HP:0000348	High forehead
+11783	773	CACNA1A	HP:0032794	Myoclonic seizure
+11784	773	CACNA1A	HP:0001638	Cardiomyopathy
+11785	773	CACNA1A	HP:0011196	EEG with focal sharp waves
+11786	773	CACNA1A	HP:0011195	EEG with focal sharp slow waves
+11787	773	CACNA1A	HP:0011199	EEG with generalized sharp slow waves
+11788	773	CACNA1A	HP:0011172	Complex febrile seizure
+11789	773	CACNA1A	HP:0011157	Focal sensory seizure
+11790	773	CACNA1A	HP:0011167	Focal tonic seizure
+11791	773	CACNA1A	HP:0011153	Focal motor seizure
+11792	773	CACNA1A	HP:0007979	Gaze-evoked horizontal nystagmus
+11793	773	CACNA1A	HP:0000486	Strabismus
+11794	773	CACNA1A	HP:0031546	Cardiac conduction abnormality
+11795	773	CACNA1A	HP:0000494	Downslanted palpebral fissures
+11796	773	CACNA1A	HP:0012444	Brain atrophy
+11797	773	CACNA1A	HP:0012447	Abnormal myelination
+11798	773	CACNA1A	HP:0000473	Torticollis
+11799	773	CACNA1A	HP:0001751	Abnormal vestibular function
+11800	773	CACNA1A	HP:0012508	Metamorphopsia
+11801	773	CACNA1A	HP:0000508	Ptosis
+11802	773	CACNA1A	HP:0000504	Abnormality of vision
+11803	773	CACNA1A	HP:0000575	Scotoma
+11804	773	CACNA1A	HP:0000577	Exotropia
+11805	773	CACNA1A	HP:0012547	Abnormal involuntary eye movements
+11806	773	CACNA1A	HP:0000565	Esotropia
+11807	773	CACNA1A	HP:0000546	Retinal degeneration
+12512	815	CAMK2A	HP:0010864	Intellectual disability, severe
+12513	815	CAMK2A	HP:0008551	Microtia
+12514	815	CAMK2A	HP:0100814	Blue nevus
+12515	815	CAMK2A	HP:0001252	Hypotonia
+12516	815	CAMK2A	HP:0002579	Gastrointestinal dysmotility
+12517	815	CAMK2A	HP:0001249	Intellectual disability
+12518	815	CAMK2A	HP:0001263	Global developmental delay
+12519	815	CAMK2A	HP:0001257	Spasticity
+12520	815	CAMK2A	HP:0002566	Intestinal malrotation
+12521	815	CAMK2A	HP:0002540	Inability to walk
+12522	815	CAMK2A	HP:0000054	Micropenis
+12523	815	CAMK2A	HP:0001382	Joint hypermobility
+12524	815	CAMK2A	HP:0000028	Cryptorchidism
+12525	815	CAMK2A	HP:0001344	Absent speech
+12526	815	CAMK2A	HP:0000007	Autosomal recessive inheritance
+12527	815	CAMK2A	HP:0000006	Autosomal dominant inheritance
+12528	815	CAMK2A	HP:0000154	Wide mouth
+12529	815	CAMK2A	HP:0000126	Hydronephrosis
+12530	815	CAMK2A	HP:0002069	Bilateral tonic-clonic seizure
+12531	815	CAMK2A	HP:0002121	Generalized non-motor (absence) seizure
+12532	815	CAMK2A	HP:0002194	Delayed gross motor development
+12533	815	CAMK2A	HP:0003593	Infantile onset
+12534	815	CAMK2A	HP:0002236	Frontal upsweep of hair
+12535	815	CAMK2A	HP:0002247	Duodenal atresia
+12536	815	CAMK2A	HP:0007074	Thick corpus callosum
+12537	815	CAMK2A	HP:0002373	Febrile seizure (within the age range of 3 months to 6 years)
+12538	815	CAMK2A	HP:0002353	EEG abnormality
+12539	815	CAMK2A	HP:0002317	Unsteady gait
+12540	815	CAMK2A	HP:0000601	Hypotelorism
+12541	815	CAMK2A	HP:0009062	Infantile axial hypotonia
+12542	815	CAMK2A	HP:0011327	Posterior plagiocephaly
+12543	815	CAMK2A	HP:0006979	Sleep-wake cycle disturbance
+12544	815	CAMK2A	HP:0004305	Involuntary movements
+12545	815	CAMK2A	HP:0031936	Delayed ability to walk
+12546	815	CAMK2A	HP:0000737	Irritability
+12547	815	CAMK2A	HP:0000750	Delayed speech and language development
+12548	815	CAMK2A	HP:0003097	Short femur
+12549	815	CAMK2A	HP:0030890	Hyperintensity of cerebral white matter on MRI
+12550	815	CAMK2A	HP:0000286	Epicanthus
+12551	815	CAMK2A	HP:0000256	Macrocephaly
+12552	815	CAMK2A	HP:0000252	Microcephaly
+12553	815	CAMK2A	HP:0000248	Brachycephaly
+12554	815	CAMK2A	HP:0001548	Overgrowth
+12555	815	CAMK2A	HP:0002857	Genu valgum
+12556	815	CAMK2A	HP:0001510	Growth delay
+12557	815	CAMK2A	HP:0032794	Myoclonic seizure
+12558	815	CAMK2A	HP:0001629	Ventricular septal defect
+12559	815	CAMK2A	HP:0011182	Interictal epileptiform activity
+12560	815	CAMK2A	HP:0000486	Strabismus
+12561	815	CAMK2A	HP:0000494	Downslanted palpebral fissures
+12562	815	CAMK2A	HP:0000505	Visual impairment
+23947	1528	CYB5A	HP:0025118	Lip discoloration
+23948	1528	CYB5A	HP:0002451	Limb dystonia
+23949	1528	CYB5A	HP:0010864	Intellectual disability, severe
+23950	1528	CYB5A	HP:0001276	Hypertonia
+23951	1528	CYB5A	HP:0001272	Cerebellar atrophy
+23952	1528	CYB5A	HP:0001250	Seizure
+23953	1528	CYB5A	HP:0001263	Global developmental delay
+23954	1528	CYB5A	HP:0001257	Spasticity
+23955	1528	CYB5A	HP:0008726	Hypoplasia of the vagina
+23956	1528	CYB5A	HP:0008730	Female external genitalia in individual with 46,XY karyotype
+23957	1528	CYB5A	HP:0008734	Decreased testicular size
+23958	1528	CYB5A	HP:0008675	Enlarged polycystic ovaries
+23959	1528	CYB5A	HP:0002510	Spastic tetraplegia
+23960	1528	CYB5A	HP:0000062	Ambiguous genitalia
+23961	1528	CYB5A	HP:0012041	Decreased fertility in males
+23962	1528	CYB5A	HP:0000037	Male pseudohermaphroditism
+23963	1528	CYB5A	HP:0000054	Micropenis
+23964	1528	CYB5A	HP:0000048	Bifid scrotum
+23965	1528	CYB5A	HP:0000047	Hypospadias
+23966	1528	CYB5A	HP:0000033	Ambiguous genitalia, male
+23967	1528	CYB5A	HP:0000028	Cryptorchidism
+23968	1528	CYB5A	HP:0000013	Hypoplasia of the uterus
+23969	1528	CYB5A	HP:0000007	Autosomal recessive inheritance
+23970	1528	CYB5A	HP:0000144	Decreased fertility
+23971	1528	CYB5A	HP:0012119	Methemoglobinemia
+23972	1528	CYB5A	HP:0000147	Polycystic ovaries
+23973	1528	CYB5A	HP:0012112	Abnormal circulating corticosterone level
+23974	1528	CYB5A	HP:0031215	Decreased circulating dehydroepiandrosterone-sulfate concentration
+23975	1528	CYB5A	HP:0002750	Delayed skeletal maturation
+23976	1528	CYB5A	HP:0008193	Primary gonadal insufficiency
+23977	1528	CYB5A	HP:0008187	Absence of secondary sex characteristics
+23978	1528	CYB5A	HP:0008232	Elevated circulating follicle stimulating hormone level
+23979	1528	CYB5A	HP:0008214	Decreased serum estradiol
+23980	1528	CYB5A	HP:0003577	Congenital onset
+23981	1528	CYB5A	HP:0002215	Sparse axillary hair
+23982	1528	CYB5A	HP:0002231	Sparse body hair
+23983	1528	CYB5A	HP:0002225	Sparse pubic hair
+23984	1528	CYB5A	HP:0002283	Global brain atrophy
+23985	1528	CYB5A	HP:0011969	Elevated circulating luteinizing hormone level
+23986	1528	CYB5A	HP:0100607	Dysmenorrhea
+23987	1528	CYB5A	HP:0007112	Temporal cortical atrophy
+23988	1528	CYB5A	HP:0002305	Athetosis
+23989	1528	CYB5A	HP:0006808	Cerebral hypomyelination
+23990	1528	CYB5A	HP:0012697	Small basal ganglia
+23991	1528	CYB5A	HP:0011344	Severe global developmental delay
+23992	1528	CYB5A	HP:0004322	Short stature
+23993	1528	CYB5A	HP:0006913	Frontal cortical atrophy
+23994	1528	CYB5A	HP:0004349	Reduced bone mineral density
+23995	1528	CYB5A	HP:0000771	Gynecomastia
+23996	1528	CYB5A	HP:0000707	Abnormality of the nervous system
+23997	1528	CYB5A	HP:0000786	Primary amenorrhea
+23998	1528	CYB5A	HP:0012853	Scrotal hypospadias
+23999	1528	CYB5A	HP:0000868	Decreased fertility in females
+24000	1528	CYB5A	HP:0000815	Hypergonadotropic hypogonadism
+24001	1528	CYB5A	HP:0000823	Delayed puberty
+24002	1528	CYB5A	HP:0000961	Cyanosis
+24003	1528	CYB5A	HP:0000939	Osteoporosis
+24004	1528	CYB5A	HP:0040171	Decreased serum testosterone concentration
+24005	1528	CYB5A	HP:0001597	Abnormality of the nail
+24006	1528	CYB5A	HP:0012244	Abnormal sex determination
+24007	1528	CYB5A	HP:0000252	Microcephaly
+24008	1528	CYB5A	HP:0002875	Exertional dyspnea
+24009	1528	CYB5A	HP:0001508	Failure to thrive
+24010	1528	CYB5A	HP:0001518	Small for gestational age
+24011	1528	CYB5A	HP:0012448	Delayed myelination
+24012	1528	CYB5A	HP:0030349	Decreased circulating androgen concentration
+24013	1528	CYB5A	HP:0000592	Blue sclerae
+24014	1528	CYB5A	HP:0000565	Esotropia
+31096	2043	EPHA4	HP:0001257	Spasticity
+31097	2043	EPHA4	HP:0007373	Motor neuron atrophy
+31098	2043	EPHA4	HP:0007354	Amyotrophic lateral sclerosis
+31099	2043	EPHA4	HP:0025425	Laryngospasm
+31100	2043	EPHA4	HP:0002795	Abnormal respiratory system physiology
+31101	2043	EPHA4	HP:0002017	Nausea and vomiting
+31102	2043	EPHA4	HP:0003324	Generalized muscle weakness
+31103	2043	EPHA4	HP:0002094	Dyspnea
+31104	2043	EPHA4	HP:0003394	Muscle spasm
+31105	2043	EPHA4	HP:0003470	Paralysis
+31106	2043	EPHA4	HP:0002180	Neurodegeneration
+31107	2043	EPHA4	HP:0000739	Anxiety
+31108	2043	EPHA4	HP:0000716	Depression
+31109	2043	EPHA4	HP:0000712	Emotional lability
+31110	2043	EPHA4	HP:0000713	Agitation
+31111	2043	EPHA4	HP:0003202	Skeletal muscle atrophy
+31112	2043	EPHA4	HP:0000217	Xerostomia
+31113	2043	EPHA4	HP:0002878	Respiratory failure
+31114	2043	EPHA4	HP:0012378	Fatigue
+31115	2043	EPHA4	HP:0030196	Fatigable weakness of respiratory muscles
+31116	2043	EPHA4	HP:0030195	Fatigable weakness of swallowing muscles
+31117	2043	EPHA4	HP:0030192	Fatigable weakness of bulbar muscles
+31118	2043	EPHA4	HP:0012531	Pain
+38451	2316	FLNA	HP:0001156	Brachydactyly
+38452	2316	FLNA	HP:0001166	Arachnodactyly
+38453	2316	FLNA	HP:0001162	Postaxial hand polydactyly
+38454	2316	FLNA	HP:0001159	Syndactyly
+38455	2316	FLNA	HP:0002475	Myelomeningocele
+38456	2316	FLNA	HP:0003779	Antegonial notching of mandible
+38457	2316	FLNA	HP:0025197	Inclusion body fibromatosis
+38458	2316	FLNA	HP:0009882	Short distal phalanx of finger
+38459	2316	FLNA	HP:0002414	Spina bifida
+38460	2316	FLNA	HP:0001297	Stroke
+38461	2316	FLNA	HP:0001290	Generalized hypotonia
+38462	2316	FLNA	HP:0100807	Long fingers
+38463	2316	FLNA	HP:0001270	Motor delay
+38464	2316	FLNA	HP:0001288	Gait disturbance
+38465	2316	FLNA	HP:0001256	Intellectual disability, mild
+38466	2316	FLNA	HP:0001250	Seizure
+38467	2316	FLNA	HP:0001249	Intellectual disability
+38468	2316	FLNA	HP:0001264	Spastic diplegia
+38469	2316	FLNA	HP:0001263	Global developmental delay
+38470	2316	FLNA	HP:0001241	Capitate-hamate fusion
+38471	2316	FLNA	HP:0001239	Wrist flexion contracture
+38472	2316	FLNA	HP:0002566	Intestinal malrotation
+38473	2316	FLNA	HP:0100857	Flat sella turcica
+38474	2316	FLNA	HP:0006070	Metacarpophalangeal joint contracture
+38475	2316	FLNA	HP:0032388	Periventricular nodular heterotopia
+38476	2316	FLNA	HP:0007359	Focal-onset seizure
+38477	2316	FLNA	HP:0008661	Urethral stenosis
+38478	2316	FLNA	HP:0006000	Ureteral obstruction
+38479	2316	FLNA	HP:0006006	Hypotrophy of the small hand muscles
+38480	2316	FLNA	HP:0033606	Bone marrow maturation arrest
+38481	2316	FLNA	HP:0001220	Interphalangeal joint contracture of finger
+38482	2316	FLNA	HP:0003826	Stillbirth
+38483	2316	FLNA	HP:0003834	Shoulder dislocation
+38484	2316	FLNA	HP:0000076	Vesicoureteral reflux
+38485	2316	FLNA	HP:0000072	Hydroureter
+38486	2316	FLNA	HP:0000071	Ureteral stenosis
+38487	2316	FLNA	HP:0001374	Congenital hip dislocation
+38488	2316	FLNA	HP:0001377	Limited elbow extension
+38489	2316	FLNA	HP:0001376	Limitation of joint mobility
+38490	2316	FLNA	HP:0001371	Flexion contracture
+38491	2316	FLNA	HP:0001388	Joint laxity
+38492	2316	FLNA	HP:0001387	Joint stiffness
+38493	2316	FLNA	HP:0001382	Joint hypermobility
+38494	2316	FLNA	HP:0000047	Hypospadias
+38495	2316	FLNA	HP:0000023	Inguinal hernia
+38496	2316	FLNA	HP:0002684	Thickened calvaria
+38497	2316	FLNA	HP:0001363	Craniosynostosis
+38498	2316	FLNA	HP:0002694	Sclerosis of skull base
+38499	2316	FLNA	HP:0000028	Cryptorchidism
+38500	2316	FLNA	HP:0002688	Absent frontal sinuses
+38501	2316	FLNA	HP:0008897	Postnatal growth retardation
+38502	2316	FLNA	HP:0006207	Partial fusion of carpals
+38503	2316	FLNA	HP:0008872	Feeding difficulties in infancy
+38504	2316	FLNA	HP:0006160	Irregular metacarpals
+38505	2316	FLNA	HP:0006155	Long phalanx of finger
+38506	2316	FLNA	HP:0033725	Thin corpus callosum
+38507	2316	FLNA	HP:0001342	Cerebral hemorrhage
+38508	2316	FLNA	HP:0002673	Coxa valga
+38509	2316	FLNA	HP:0002652	Skeletal dysplasia
+38510	2316	FLNA	HP:0002650	Scoliosis
+38511	2316	FLNA	HP:0001321	Cerebellar hypoplasia
+38512	2316	FLNA	HP:0001319	Neonatal hypotonia
+38513	2316	FLNA	HP:0002645	Wormian bones
+38514	2316	FLNA	HP:0000189	Narrow palate
+38515	2316	FLNA	HP:0000179	Thick lower lip vermilion
+38516	2316	FLNA	HP:0025473	Hyperpigmented papule
+38517	2316	FLNA	HP:0000193	Bifid uvula
+38518	2316	FLNA	HP:0000191	Accessory oral frenulum
+38519	2316	FLNA	HP:0000160	Narrow mouth
+38520	2316	FLNA	HP:0000162	Glossoptosis
+38521	2316	FLNA	HP:0001488	Bilateral ptosis
+38522	2316	FLNA	HP:0000175	Cleft palate
+38523	2316	FLNA	HP:0001476	Delayed closure of the anterior fontanelle
+38524	2316	FLNA	HP:0005011	Mesomelic arm shortening
+38525	2316	FLNA	HP:0006335	Persistence of primary teeth
+38526	2316	FLNA	HP:0008952	Shoulder muscle hypoplasia
+38527	2316	FLNA	HP:0002700	Large foramen magnum
+38528	2316	FLNA	HP:0006248	Limited wrist movement
+38529	2316	FLNA	HP:0000126	Hydronephrosis
+38530	2316	FLNA	HP:0001423	X-linked dominant inheritance
+38531	2316	FLNA	HP:0002737	Thick skull base
+38532	2316	FLNA	HP:0002738	Hypoplastic frontal sinuses
+38533	2316	FLNA	HP:0002751	Kyphoscoliosis
+38534	2316	FLNA	HP:0001419	X-linked recessive inheritance
+38535	2316	FLNA	HP:0001417	X-linked inheritance
+38536	2316	FLNA	HP:0002719	Recurrent infections
+38537	2316	FLNA	HP:0002024	Malabsorption
+38538	2316	FLNA	HP:0002021	Pyloric stenosis
+38539	2316	FLNA	HP:0002020	Gastroesophageal reflux
+38540	2316	FLNA	HP:0002019	Constipation
+38541	2316	FLNA	HP:0040309	Increased size of the mandible
+38542	2316	FLNA	HP:0002003	Large forehead
+38543	2316	FLNA	HP:0003330	Abnormal bone structure
+38544	2316	FLNA	HP:0002013	Vomiting
+38545	2316	FLNA	HP:0002007	Frontal bossing
+38546	2316	FLNA	HP:0003304	Spondylolysis
+38547	2316	FLNA	HP:0011800	Midface retrusion
+38548	2316	FLNA	HP:0002089	Pulmonary hypoplasia
+38549	2316	FLNA	HP:0002084	Encephalocele
+38550	2316	FLNA	HP:0100543	Cognitive impairment
+38551	2316	FLNA	HP:0002094	Dyspnea
+38552	2316	FLNA	HP:0002092	Pulmonary arterial hypertension
+38553	2316	FLNA	HP:0002093	Respiratory insufficiency
+38554	2316	FLNA	HP:0002079	Hypoplasia of the corpus callosum
+38555	2316	FLNA	HP:0010444	Pulmonary insufficiency
+38556	2316	FLNA	HP:0009467	Radial deviation of the 2nd finger
+38557	2316	FLNA	HP:0008127	Bipartite calcaneus
+38558	2316	FLNA	HP:0100578	Lipoatrophy
+38559	2316	FLNA	HP:0004611	Anterior concavity of thoracic vertebrae
+38560	2316	FLNA	HP:0004608	Anteriorly placed odontoid process
+38561	2316	FLNA	HP:0004602	Cervical C2/C3 vertebral fusion
+38562	2316	FLNA	HP:0005916	Abnormal metacarpal morphology
+38563	2316	FLNA	HP:0009487	Ulnar deviation of the hand
+38564	2316	FLNA	HP:0009473	Joint contracture of the hand
+38565	2316	FLNA	HP:0009623	Proximal placement of thumb
+38566	2316	FLNA	HP:0002164	Nail dysplasia
+38567	2316	FLNA	HP:0100490	Camptodactyly of finger
+38568	2316	FLNA	HP:0010559	Vertical clivus
+38569	2316	FLNA	HP:0010557	Overlapping fingers
+38570	2316	FLNA	HP:0010562	Keloids
+38571	2316	FLNA	HP:0010560	Undulate clavicles
+38572	2316	FLNA	HP:0011877	Increased mean platelet volume
+38573	2316	FLNA	HP:0010505	Limitation of movement at ankles
+38574	2316	FLNA	HP:0010501	Limitation of knee mobility
+38575	2316	FLNA	HP:0003593	Infantile onset
+38576	2316	FLNA	HP:0002269	Abnormality of neuronal migration
+38577	2316	FLNA	HP:0003577	Congenital onset
+38578	2316	FLNA	HP:0002236	Frontal upsweep of hair
+38579	2316	FLNA	HP:0002208	Coarse hair
+38580	2316	FLNA	HP:0002205	Recurrent respiratory infections
+38581	2316	FLNA	HP:0008404	Nail dystrophy
+38582	2316	FLNA	HP:0100790	Hernia
+38583	2316	FLNA	HP:0009702	Carpal synostosis
+38584	2316	FLNA	HP:0002282	Gray matter heterotopia
+38585	2316	FLNA	HP:0010675	Abnormal foot bone ossification
+38586	2316	FLNA	HP:0008368	Tarsal synostosis
+38587	2316	FLNA	HP:0010660	Abnormal hand bone ossification
+38588	2316	FLNA	HP:0009650	Short distal phalanx of the thumb
+38589	2316	FLNA	HP:0009642	Broad distal phalanx of the thumb
+38590	2316	FLNA	HP:0010614	Fibroma
+38591	2316	FLNA	HP:0003691	Scapular winging
+38592	2316	FLNA	HP:0001007	Hirsutism
+38593	2316	FLNA	HP:0001000	Abnormality of skin pigmentation
+38594	2316	FLNA	HP:0004987	Mesomelic leg shortening
+38595	2316	FLNA	HP:0009836	Broad distal phalanx of finger
+38596	2316	FLNA	HP:0100627	Displacement of the urethral meatus
+38597	2316	FLNA	HP:0009803	Short phalanx of finger
+38598	2316	FLNA	HP:0001087	Developmental glaucoma
+38599	2316	FLNA	HP:0007165	Periventricular heterotopia
+38600	2316	FLNA	HP:0009771	Osteolytic defects of the phalanges of the hand
+38601	2316	FLNA	HP:0009778	Short thumb
+38602	2316	FLNA	HP:0010743	Short metatarsal
+38603	2316	FLNA	HP:0009768	Broad phalanges of the hand
+38604	2316	FLNA	HP:0002308	Chiari malformation
+38605	2316	FLNA	HP:0004942	Aortic aneurysm
+38606	2316	FLNA	HP:0004279	Short palm
+38607	2316	FLNA	HP:0004232	Accessory carpal bones
+38608	2316	FLNA	HP:0000646	Amblyopia
+38609	2316	FLNA	HP:0000612	Iris coloboma
+38610	2316	FLNA	HP:0001939	Abnormality of metabolism/homeostasis
+38611	2316	FLNA	HP:0010049	Short metacarpal
+38612	2316	FLNA	HP:0010047	Short 5th metacarpal
+38613	2316	FLNA	HP:0010055	Broad hallux
+38614	2316	FLNA	HP:0010041	Short 3rd metacarpal
+38615	2316	FLNA	HP:0010044	Short 4th metacarpal
+38616	2316	FLNA	HP:0011355	Localized skin lesion
+38617	2316	FLNA	HP:0000684	Delayed eruption of teeth
+38618	2316	FLNA	HP:0011335	Frontal hirsutism
+38619	2316	FLNA	HP:0000674	Anodontia
+38620	2316	FLNA	HP:0000677	Oligodontia
+38621	2316	FLNA	HP:0000692	Tooth malposition
+38622	2316	FLNA	HP:0000695	Natal tooth
+38623	2316	FLNA	HP:0000689	Dental malocclusion
+38624	2316	FLNA	HP:0000685	Hypoplasia of teeth
+38625	2316	FLNA	HP:0009004	Hypoplasia of the musculature
+38626	2316	FLNA	HP:0012639	Abnormal nervous system morphology
+38627	2316	FLNA	HP:0011304	Broad thumb
+38628	2316	FLNA	HP:0001999	Abnormal facial shape
+38629	2316	FLNA	HP:0004325	Decreased body weight
+38630	2316	FLNA	HP:0004322	Short stature
+38631	2316	FLNA	HP:0004313	Decreased circulating antibody level
+38632	2316	FLNA	HP:0005640	Abnormal vertebral segmentation and fusion
+38633	2316	FLNA	HP:0030680	Abnormality of cardiovascular system morphology
+38634	2316	FLNA	HP:0003083	Dislocated radial head
+38635	2316	FLNA	HP:0004389	Intestinal pseudo-obstruction
+38636	2316	FLNA	HP:0003031	Ulnar bowing
+38637	2316	FLNA	HP:0005692	Joint hyperflexibility
+38638	2316	FLNA	HP:0003042	Elbow dislocation
+38639	2316	FLNA	HP:0003015	Flared metaphysis
+38640	2316	FLNA	HP:0003016	Metaphyseal widening
+38641	2316	FLNA	HP:0000772	Abnormal rib morphology
+38642	2316	FLNA	HP:0000767	Pectus excavatum
+38643	2316	FLNA	HP:0000750	Delayed speech and language development
+38644	2316	FLNA	HP:0009139	Osteolysis involving bones of the lower limbs
+38645	2316	FLNA	HP:0010109	Short hallux
+38646	2316	FLNA	HP:0000774	Narrow chest
+38647	2316	FLNA	HP:0000773	Short ribs
+38648	2316	FLNA	HP:0000776	Congenital diaphragmatic hernia
+38649	2316	FLNA	HP:0003103	Abnormal cortical bone morphology
+38650	2316	FLNA	HP:0003196	Short nose
+38651	2316	FLNA	HP:0000912	Sprengel anomaly
+38652	2316	FLNA	HP:0000926	Platyspondyly
+38653	2316	FLNA	HP:0003172	Abnormality of the pubic bone
+38654	2316	FLNA	HP:0004493	Craniofacial hyperostosis
+38655	2316	FLNA	HP:0004467	Preauricular pit
+38656	2316	FLNA	HP:0005792	Short humerus
+38657	2316	FLNA	HP:0030718	Right atrial enlargement
+38658	2316	FLNA	HP:0000882	Hypoplastic scapulae
+38659	2316	FLNA	HP:0011580	Short chordae tendineae of the mitral valve
+38660	2316	FLNA	HP:0010230	Cone-shaped epiphyses of the phalanges of the hand
+38661	2316	FLNA	HP:0000894	Short clavicles
+38662	2316	FLNA	HP:0030889	Congenital shortened small intestine
+38663	2316	FLNA	HP:0003202	Skeletal muscle atrophy
+38664	2316	FLNA	HP:0045039	Osteolysis involving bones of the upper limbs
+38665	2316	FLNA	HP:0034391	Elbow contracture
+38666	2316	FLNA	HP:0003298	Spina bifida occulta
+38667	2316	FLNA	HP:0003270	Abdominal distention
+38668	2316	FLNA	HP:0003256	Abnormality of the coagulation cascade
+38669	2316	FLNA	HP:0011645	Dilatation of the sinus of Valsalva
+38670	2316	FLNA	HP:0100258	Preaxial polydactyly
+38671	2316	FLNA	HP:0010307	Stridor
+38672	2316	FLNA	HP:0010306	Short thorax
+38673	2316	FLNA	HP:0000978	Bruising susceptibility
+38674	2316	FLNA	HP:0000974	Hyperextensible skin
+38675	2316	FLNA	HP:0000973	Cutis laxa
+38676	2316	FLNA	HP:0000954	Single transverse palmar crease
+38677	2316	FLNA	HP:0000963	Thin skin
+38678	2316	FLNA	HP:0000946	Hypoplastic ilia
+38679	2316	FLNA	HP:0000944	Abnormal metaphysis morphology
+38680	2316	FLNA	HP:0000941	Short diaphyses
+38681	2316	FLNA	HP:0008097	Partial fusion of tarsals
+38682	2316	FLNA	HP:0008081	Pes valgus
+38683	2316	FLNA	HP:0008087	Nonossified fifth metatarsal
+38684	2316	FLNA	HP:0008089	Abnormality of the fifth metatarsal bone
+38685	2316	FLNA	HP:0008070	Sparse hair
+38686	2316	FLNA	HP:0009381	Short finger
+38687	2316	FLNA	HP:0000286	Epicanthus
+38688	2316	FLNA	HP:0000283	Broad face
+38689	2316	FLNA	HP:0000280	Coarse facial features
+38690	2316	FLNA	HP:0000293	Full cheeks
+38691	2316	FLNA	HP:0001596	Alopecia
+38692	2316	FLNA	HP:0000260	Wide anterior fontanel
+38693	2316	FLNA	HP:0001592	Selective tooth agenesis
+38694	2316	FLNA	HP:0000274	Small face
+38695	2316	FLNA	HP:0000270	Delayed cranial suture closure
+38696	2316	FLNA	HP:0000272	Malar flattening
+38697	2316	FLNA	HP:0000269	Prominent occiput
+38698	2316	FLNA	HP:0006466	Ankle flexion contracture
+38699	2316	FLNA	HP:0006440	Increased density of long bone diaphyses
+38700	2316	FLNA	HP:0005090	Lateral femoral bowing
+38701	2316	FLNA	HP:0002814	Abnormality of the lower limb
+38702	2316	FLNA	HP:0002827	Hip dislocation
+38703	2316	FLNA	HP:0002828	Multiple joint contractures
+38704	2316	FLNA	HP:0030084	Clinodactyly
+38705	2316	FLNA	HP:0006380	Knee flexion contracture
+38706	2316	FLNA	HP:0006381	Rudimentary fibula
+38707	2316	FLNA	HP:0006383	Progressive bowing of long bones
+38708	2316	FLNA	HP:0006389	Limited knee flexion
+38709	2316	FLNA	HP:0005048	Synostosis of carpal bones
+38710	2316	FLNA	HP:0001571	Multiple impacted teeth
+38711	2316	FLNA	HP:0000239	Large fontanelles
+38712	2316	FLNA	HP:0000238	Hydrocephalus
+38713	2316	FLNA	HP:0002878	Respiratory failure
+38714	2316	FLNA	HP:0002879	Anisospondyly
+38715	2316	FLNA	HP:0000218	High palate
+38716	2316	FLNA	HP:0002857	Genu valgum
+38717	2316	FLNA	HP:0002869	Flared iliac wing
+38718	2316	FLNA	HP:0001537	Umbilical hernia
+38719	2316	FLNA	HP:0001539	Omphalocele
+38720	2316	FLNA	HP:0000201	Pierre-Robin sequence
+38721	2316	FLNA	HP:0001508	Failure to thrive
+38722	2316	FLNA	HP:0001510	Growth delay
+38723	2316	FLNA	HP:0012385	Camptodactyly
+38724	2316	FLNA	HP:0012368	Flat face
+38725	2316	FLNA	HP:0000377	Abnormal pinna morphology
+38726	2316	FLNA	HP:0005245	Intestinal hypoplasia
+38727	2316	FLNA	HP:0001607	Subglottic stenosis
+38728	2316	FLNA	HP:0001609	Hoarse voice
+38729	2316	FLNA	HP:0002949	Fused cervical vertebrae
+38730	2316	FLNA	HP:0005180	Tricuspid regurgitation
+38731	2316	FLNA	HP:0006487	Bowing of the long bones
+38732	2316	FLNA	HP:0000365	Hearing impairment
+38733	2316	FLNA	HP:0000358	Posteriorly rotated ears
+38734	2316	FLNA	HP:0000369	Low-set ears
+38735	2316	FLNA	HP:0001671	Abnormal cardiac septum morphology
+38736	2316	FLNA	HP:0000343	Long philtrum
+38737	2316	FLNA	HP:0011001	Increased bone mineral density
+38738	2316	FLNA	HP:0000337	Broad forehead
+38739	2316	FLNA	HP:0002999	Patellar dislocation
+38740	2316	FLNA	HP:0000336	Prominent supraorbital ridges
+38741	2316	FLNA	HP:0002996	Limited elbow movement
+38742	2316	FLNA	HP:0000349	Widow's peak
+38743	2316	FLNA	HP:0000347	Micrognathia
+38744	2316	FLNA	HP:0002982	Tibial bowing
+38745	2316	FLNA	HP:0002980	Femoral bowing
+38746	2316	FLNA	HP:0000319	Smooth philtrum
+38747	2316	FLNA	HP:0001647	Bicuspid aortic valve
+38748	2316	FLNA	HP:0000316	Hypertelorism
+38749	2316	FLNA	HP:0001648	Cor pulmonale
+38750	2316	FLNA	HP:0001643	Patent ductus arteriosus
+38751	2316	FLNA	HP:0000331	Short chin
+38752	2316	FLNA	HP:0002990	Fibular aplasia
+38753	2316	FLNA	HP:0001659	Aortic regurgitation
+38754	2316	FLNA	HP:0002986	Radial bowing
+38755	2316	FLNA	HP:0001654	Abnormal heart valve morphology
+38756	2316	FLNA	HP:0002987	Elbow flexion contracture
+38757	2316	FLNA	HP:0001653	Mitral regurgitation
+38758	2316	FLNA	HP:0000324	Facial asymmetry
+38759	2316	FLNA	HP:0001655	Patent foramen ovale
+38760	2316	FLNA	HP:0001627	Abnormal heart morphology
+38761	2316	FLNA	HP:0001635	Congestive heart failure
+38762	2316	FLNA	HP:0000307	Pointed chin
+38763	2316	FLNA	HP:0001631	Atrial septal defect
+38764	2316	FLNA	HP:0001634	Mitral valve prolapse
+38765	2316	FLNA	HP:0031624	Moderate myopia
+38766	2316	FLNA	HP:0006692	Short chordae tendineae of the tricuspid valve
+38767	2316	FLNA	HP:0006665	Coat hanger sign of ribs
+38768	2316	FLNA	HP:0001723	Restrictive cardiomyopathy
+38769	2316	FLNA	HP:0000407	Sensorineural hearing impairment
+38770	2316	FLNA	HP:0000403	Recurrent otitis media
+38771	2316	FLNA	HP:0000405	Conductive hearing impairment
+38772	2316	FLNA	HP:0000400	Macrotia
+38773	2316	FLNA	HP:0001704	Tricuspid valve prolapse
+38774	2316	FLNA	HP:0005280	Depressed nasal bridge
+38775	2316	FLNA	HP:0000483	Astigmatism
+38776	2316	FLNA	HP:0000486	Strabismus
+38777	2316	FLNA	HP:0000481	Abnormal cornea morphology
+38778	2316	FLNA	HP:0012471	Thick vermilion border
+38779	2316	FLNA	HP:0000494	Downslanted palpebral fissures
+38780	2316	FLNA	HP:0000472	Long neck
+38781	2316	FLNA	HP:0000470	Short neck
+38782	2316	FLNA	HP:0001770	Toe syndactyly
+38783	2316	FLNA	HP:0000437	Depressed nasal tip
+38784	2316	FLNA	HP:0001763	Pes planus
+38785	2316	FLNA	HP:0001782	Bulbous tips of toes
+38786	2316	FLNA	HP:0000411	Protruding ear
+38787	2316	FLNA	HP:0000410	Mixed hearing impairment
+38788	2316	FLNA	HP:0001762	Talipes equinovarus
+38789	2316	FLNA	HP:0000431	Wide nasal bridge
+38790	2316	FLNA	HP:0001761	Pes cavus
+38791	2316	FLNA	HP:0005446	Obtuse angle of mandible
+38792	2316	FLNA	HP:0001850	Abnormality of the tarsal bones
+38793	2316	FLNA	HP:0000518	Cataract
+38794	2316	FLNA	HP:0001852	Sandal gap
+38795	2316	FLNA	HP:0000520	Proptosis
+38796	2316	FLNA	HP:0001838	Rocker bottom foot
+38797	2316	FLNA	HP:0000506	Telecanthus
+38798	2316	FLNA	HP:0000508	Ptosis
+38799	2316	FLNA	HP:0001833	Long foot
+38800	2316	FLNA	HP:0001836	Camptodactyly of toe
+38801	2316	FLNA	HP:0000501	Glaucoma
+38802	2316	FLNA	HP:0001831	Short toe
+38803	2316	FLNA	HP:0011246	Underdeveloped superior crus of antihelix
+38804	2316	FLNA	HP:0000582	Upslanted palpebral fissure
+38805	2316	FLNA	HP:0001892	Abnormal bleeding
+38806	2316	FLNA	HP:0011220	Prominent forehead
+38807	2316	FLNA	HP:0001863	Toe clinodactyly
+38808	2316	FLNA	HP:0001873	Thrombocytopenia
+56675	3679	ITGA7	HP:0002421	Poor head control
+56676	3679	ITGA7	HP:0003749	Pelvic girdle muscle weakness
+56677	3679	ITGA7	HP:0003741	Congenital muscular dystrophy
+56678	3679	ITGA7	HP:0001270	Motor delay
+56679	3679	ITGA7	HP:0001284	Areflexia
+56680	3679	ITGA7	HP:0001252	Hypotonia
+56681	3679	ITGA7	HP:0001249	Intellectual disability
+56682	3679	ITGA7	HP:0001374	Congenital hip dislocation
+56683	3679	ITGA7	HP:0001371	Flexion contracture
+56684	3679	ITGA7	HP:0001324	Muscle weakness
+56685	3679	ITGA7	HP:0000007	Autosomal recessive inheritance
+56686	3679	ITGA7	HP:0002650	Scoliosis
+56687	3679	ITGA7	HP:0001315	Reduced tendon reflexes
+56688	3679	ITGA7	HP:0002751	Kyphoscoliosis
+56689	3679	ITGA7	HP:0002747	Respiratory insufficiency due to muscle weakness
+56690	3679	ITGA7	HP:0002015	Dysphagia
+56691	3679	ITGA7	HP:0003307	Hyperlordosis
+56692	3679	ITGA7	HP:0003323	Progressive muscle weakness
+56693	3679	ITGA7	HP:0003324	Generalized muscle weakness
+56694	3679	ITGA7	HP:0011807	Type 1 muscle fiber atrophy
+56695	3679	ITGA7	HP:0002086	Abnormality of the respiratory system
+56696	3679	ITGA7	HP:0003391	Gowers sign
+56697	3679	ITGA7	HP:0002058	Myopathic facies
+56698	3679	ITGA7	HP:0003388	Easy fatigability
+56699	3679	ITGA7	HP:0011842	Abnormal skeletal morphology
+56700	3679	ITGA7	HP:0003593	Infantile onset
+56701	3679	ITGA7	HP:0003577	Congenital onset
+56702	3679	ITGA7	HP:0003547	Shoulder girdle muscle weakness
+56703	3679	ITGA7	HP:0004878	Intercostal muscle weakness
+56704	3679	ITGA7	HP:0003557	Increased variability in muscle fiber diameter
+56705	3679	ITGA7	HP:0002205	Recurrent respiratory infections
+56706	3679	ITGA7	HP:0011968	Feeding difficulties
+56707	3679	ITGA7	HP:0011951	Aspiration pneumonia
+56708	3679	ITGA7	HP:0002360	Sleep disturbance
+56709	3679	ITGA7	HP:0002315	Headache
+56710	3679	ITGA7	HP:0000602	Ophthalmoplegia
+56711	3679	ITGA7	HP:0009027	Foot dorsiflexor weakness
+56712	3679	ITGA7	HP:0000678	Dental crowding
+56713	3679	ITGA7	HP:0009004	Hypoplasia of the musculature
+56714	3679	ITGA7	HP:0004396	Poor appetite
+56715	3679	ITGA7	HP:0004347	Weakness of muscles of respiration
+56716	3679	ITGA7	HP:0000767	Pectus excavatum
+56717	3679	ITGA7	HP:0011470	Nasogastric tube feeding in infancy
+56718	3679	ITGA7	HP:0012785	Flexion contracture of finger
+56719	3679	ITGA7	HP:0003236	Elevated circulating creatine kinase concentration
+56720	3679	ITGA7	HP:0003202	Skeletal muscle atrophy
+56721	3679	ITGA7	HP:0003273	Hip contracture
+56722	3679	ITGA7	HP:0000276	Long face
+56723	3679	ITGA7	HP:0006466	Ankle flexion contracture
+56724	3679	ITGA7	HP:0006380	Knee flexion contracture
+56725	3679	ITGA7	HP:0002878	Respiratory failure
+56726	3679	ITGA7	HP:0000218	High palate
+56727	3679	ITGA7	HP:0001561	Polyhydramnios
+56728	3679	ITGA7	HP:0001558	Decreased fetal movement
+56729	3679	ITGA7	HP:0001508	Failure to thrive
+56730	3679	ITGA7	HP:0012378	Fatigue
+56731	3679	ITGA7	HP:0005216	Impaired mastication
+56732	3679	ITGA7	HP:0001609	Hoarse voice
+56733	3679	ITGA7	HP:0030192	Fatigable weakness of bulbar muscles
+56734	3679	ITGA7	HP:0000347	Micrognathia
+56735	3679	ITGA7	HP:0001648	Cor pulmonale
+56736	3679	ITGA7	HP:0002987	Elbow flexion contracture
+56737	3679	ITGA7	HP:0001627	Abnormal heart morphology
+56738	3679	ITGA7	HP:0030319	Weakness of facial musculature
+56739	3679	ITGA7	HP:0000473	Torticollis
+56740	3679	ITGA7	HP:0012416	Hypercapnia
+56741	3679	ITGA7	HP:0012418	Hypoxemia
+56742	3679	ITGA7	HP:0001762	Talipes equinovarus
+56743	3679	ITGA7	HP:0001761	Pes cavus
+56744	3679	ITGA7	HP:0001824	Weight loss
+56745	3679	ITGA7	HP:0012548	Fatty replacement of skeletal muscle
+61622	3953	LEPR	HP:0001249	Intellectual disability
+61623	3953	LEPR	HP:0002591	Polyphagia
+61624	3953	LEPR	HP:0008734	Decreased testicular size
+61625	3953	LEPR	HP:0008724	Hypoplasia of the ovary
+61626	3953	LEPR	HP:0000007	Autosomal recessive inheritance
+61627	3953	LEPR	HP:0002788	Recurrent upper respiratory tract infections
+61628	3953	LEPR	HP:0008187	Absence of secondary sex characteristics
+61629	3953	LEPR	HP:0002155	Hypertriglyceridemia
+61630	3953	LEPR	HP:0008245	Pituitary hypothyroidism
+61631	3953	LEPR	HP:0008214	Decreased serum estradiol
+61632	3953	LEPR	HP:0003593	Infantile onset
+61633	3953	LEPR	HP:0100738	Abnormal eating behavior
+61634	3953	LEPR	HP:0004926	Orthostatic hypotension due to autonomic dysfunction
+61635	3953	LEPR	HP:0004322	Short stature
+61636	3953	LEPR	HP:0005616	Accelerated skeletal maturation
+61637	3953	LEPR	HP:0000771	Gynecomastia
+61638	3953	LEPR	HP:0000718	Aggressive behavior
+61639	3953	LEPR	HP:0000712	Emotional lability
+61640	3953	LEPR	HP:0000786	Primary amenorrhea
+61641	3953	LEPR	HP:0000831	Insulin-resistant diabetes mellitus
+61642	3953	LEPR	HP:0000842	Hyperinsulinemia
+61643	3953	LEPR	HP:0000819	Diabetes mellitus
+61644	3953	LEPR	HP:0000815	Hypergonadotropic hypogonadism
+61645	3953	LEPR	HP:0000824	Decreased response to growth hormone stimulation test
+61646	3953	LEPR	HP:0000823	Delayed puberty
+61647	3953	LEPR	HP:0003292	Decreased serum leptin
+61648	3953	LEPR	HP:0040171	Decreased serum testosterone concentration
+61649	3953	LEPR	HP:0012286	Abnormal hypothalamus morphology
+61650	3953	LEPR	HP:0001513	Obesity
+61651	3953	LEPR	HP:0002958	Immune dysregulation
+61652	3953	LEPR	HP:0005407	Decreased proportion of CD4-positive helper T cells
+61653	3953	LEPR	HP:0005419	Decreased T cell activation
+65033	4128	MAOA	HP:0001270	Motor delay
+65034	4128	MAOA	HP:0001249	Intellectual disability
+65035	4128	MAOA	HP:0031284	Flushing
+65036	4128	MAOA	HP:0001419	X-linked recessive inheritance
+65037	4128	MAOA	HP:0002014	Diarrhea
+65038	4128	MAOA	HP:0100543	Cognitive impairment
+65039	4128	MAOA	HP:0100710	Impulsivity
+65040	4128	MAOA	HP:0100716	Self-injurious behavior
+65041	4128	MAOA	HP:0002315	Headache
+65042	4128	MAOA	HP:0000744	Low frustration tolerance
+65043	4128	MAOA	HP:0000718	Aggressive behavior
+65044	4128	MAOA	HP:0000717	Autism
+65045	4128	MAOA	HP:0000708	Atypical behavior
+65046	4128	MAOA	HP:0030186	Kinetic tremor
+73144	4638	MYLK	HP:0001166	Arachnodactyly
+73145	4638	MYLK	HP:0010956	Fetal megacystis
+73146	4638	MYLK	HP:0001297	Stroke
+73147	4638	MYLK	HP:0100806	Sepsis
+73148	4638	MYLK	HP:0002566	Intestinal malrotation
+73149	4638	MYLK	HP:0007430	Generalized edema
+73150	4638	MYLK	HP:0000098	Tall stature
+73151	4638	MYLK	HP:0000072	Hydroureter
+73152	4638	MYLK	HP:0000021	Megacystis
+73153	4638	MYLK	HP:0002686	Prenatal maternal abnormality
+73154	4638	MYLK	HP:0000023	Inguinal hernia
+73155	4638	MYLK	HP:0000028	Cryptorchidism
+73156	4638	MYLK	HP:0000007	Autosomal recessive inheritance
+73157	4638	MYLK	HP:0000003	Multicystic kidney dysplasia
+73158	4638	MYLK	HP:0000006	Autosomal dominant inheritance
+73159	4638	MYLK	HP:0002650	Scoliosis
+73160	4638	MYLK	HP:0002647	Aortic dissection
+73161	4638	MYLK	HP:0002616	Aortic root aneurysm
+73162	4638	MYLK	HP:0012163	Carotid artery dilatation
+73163	4638	MYLK	HP:0002705	High, narrow palate
+73164	4638	MYLK	HP:0002017	Nausea and vomiting
+73165	4638	MYLK	HP:0100544	Neoplasm of the heart
+73166	4638	MYLK	HP:0002140	Ischemic stroke
+73167	4638	MYLK	HP:0002138	Subarachnoid hemorrhage
+73168	4638	MYLK	HP:0002107	Pneumothorax
+73169	4638	MYLK	HP:0002105	Hemoptysis
+73170	4638	MYLK	HP:0003549	Abnormality of connective tissue
+73171	4638	MYLK	HP:0100771	Hypoperistalsis
+73172	4638	MYLK	HP:0200146	Mucoid extracellular matrix accumulation
+73173	4638	MYLK	HP:0100775	Dural ectasia
+73174	4638	MYLK	HP:0100749	Chest pain
+73175	4638	MYLK	HP:0002326	Transient ischemic attack
+73176	4638	MYLK	HP:0004959	Descending thoracic aorta aneurysm
+73177	4638	MYLK	HP:0004933	Ascending aortic dissection
+73178	4638	MYLK	HP:0004950	Peripheral arterial stenosis
+73179	4638	MYLK	HP:0004944	Dilatation of the cerebral artery
+73180	4638	MYLK	HP:0004942	Aortic aneurysm
+73181	4638	MYLK	HP:0030680	Abnormality of cardiovascular system morphology
+73182	4638	MYLK	HP:0004388	Microcolon
+73183	4638	MYLK	HP:0000766	Abnormal sternum morphology
+73184	4638	MYLK	HP:0012763	Paroxysmal dyspnea
+73185	4638	MYLK	HP:0000822	Hypertension
+73186	4638	MYLK	HP:0003270	Abdominal distention
+73187	4638	MYLK	HP:0000978	Bruising susceptibility
+73188	4638	MYLK	HP:0000965	Cutis marmorata
+73189	4638	MYLK	HP:0000278	Retrognathia
+73190	4638	MYLK	HP:0005112	Abdominal aortic aneurysm
+73191	4638	MYLK	HP:0002875	Exertional dyspnea
+73192	4638	MYLK	HP:0001562	Oligohydramnios
+73193	4638	MYLK	HP:0001561	Polyhydramnios
+73194	4638	MYLK	HP:0001522	Death in infancy
+73195	4638	MYLK	HP:0001537	Umbilical hernia
+73196	4638	MYLK	HP:0001539	Omphalocele
+73197	4638	MYLK	HP:0005162	Abnormal left ventricular function
+73198	4638	MYLK	HP:0011024	Abnormality of the gastrointestinal tract
+73199	4638	MYLK	HP:0001699	Sudden death
+73200	4638	MYLK	HP:0001677	Coronary artery atherosclerosis
+73201	4638	MYLK	HP:0001647	Bicuspid aortic valve
+73202	4638	MYLK	HP:0000316	Hypertelorism
+73203	4638	MYLK	HP:0001643	Patent ductus arteriosus
+73204	4638	MYLK	HP:0001659	Aortic regurgitation
+73205	4638	MYLK	HP:0001640	Cardiomegaly
+73206	4638	MYLK	HP:0012499	Descending aortic dissection
+73207	4638	MYLK	HP:0031649	Aortic rupture
+73208	4638	MYLK	HP:0011106	Hypovolemia
+73209	4638	MYLK	HP:0001763	Pes planus
+73210	4638	MYLK	HP:0000525	Abnormality iris morphology
+116319	7157	TP53	HP:0025134	Increased serum estradiol
+116320	7157	TP53	HP:0002488	Acute leukemia
+116321	7157	TP53	HP:0001123	Visual field defect
+116322	7157	TP53	HP:0009919	Retinoblastoma
+116323	7157	TP53	HP:0010885	Avascular necrosis
+116324	7157	TP53	HP:0001297	Stroke
+116325	7157	TP53	HP:0025269	Panic attack
+116326	7157	TP53	HP:0001276	Hypertonia
+116327	7157	TP53	HP:0001250	Seizure
+116328	7157	TP53	HP:0001249	Intellectual disability
+116329	7157	TP53	HP:0001263	Global developmental delay
+116330	7157	TP53	HP:0007378	Neoplasm of the gastrointestinal tract
+116331	7157	TP53	HP:0010982	Polygenic inheritance
+116332	7157	TP53	HP:0025383	Dorsocervical fat pad
+116333	7157	TP53	HP:0000080	Abnormality of reproductive system physiology
+116334	7157	TP53	HP:0025380	Increased circulating androstenedione concentration
+116335	7157	TP53	HP:0012030	Increased urinary cortisol level
+116336	7157	TP53	HP:0001386	Joint swelling
+116337	7157	TP53	HP:0025318	Ovarian carcinoma
+116338	7157	TP53	HP:0002690	Large sella turcica
+116339	7157	TP53	HP:0000029	Testicular atrophy
+116340	7157	TP53	HP:0002664	Neoplasm
+116341	7157	TP53	HP:0001324	Muscle weakness
+116342	7157	TP53	HP:0002669	Osteosarcoma
+116343	7157	TP53	HP:0002667	Nephroblastoma
+116344	7157	TP53	HP:0002665	Lymphoma
+116345	7157	TP53	HP:0000006	Autosomal dominant inheritance
+116346	7157	TP53	HP:0012189	Hodgkin lymphoma
+116347	7157	TP53	HP:0012174	Glioblastoma multiforme
+116348	7157	TP53	HP:0000141	Amenorrhea
+116349	7157	TP53	HP:0012125	Prostate cancer
+116350	7157	TP53	HP:0012126	Stomach cancer
+116351	7157	TP53	HP:0012133	Erythroid hypoplasia
+116352	7157	TP53	HP:0025436	Elevated serum 11-deoxycortisol
+116353	7157	TP53	HP:0025435	Increased circulating lactate dehydrogenase concentration
+116354	7157	TP53	HP:0000135	Hypogonadism
+116355	7157	TP53	HP:0002797	Osteolysis
+116356	7157	TP53	HP:0410067	Increased level of L-fucose in urine
+116357	7157	TP53	HP:0031284	Flushing
+116358	7157	TP53	HP:0500022	Abnormal circulating dehydroepiandrosterone concentration
+116359	7157	TP53	HP:0500011	Moon facies
+116360	7157	TP53	HP:0007588	Reticular hyperpigmentation
+116361	7157	TP53	HP:0001428	Somatic mutation
+116362	7157	TP53	HP:0002756	Pathologic fracture
+116363	7157	TP53	HP:0001433	Hepatosplenomegaly
+116364	7157	TP53	HP:0001402	Hepatocellular carcinoma
+116365	7157	TP53	HP:0002750	Delayed skeletal maturation
+116366	7157	TP53	HP:0002745	Oral leukoplakia
+116367	7157	TP53	HP:0001413	Micronodular cirrhosis
+116368	7157	TP53	HP:0002716	Lymphadenopathy
+116369	7157	TP53	HP:0002721	Immunodeficiency
+116370	7157	TP53	HP:0002018	Nausea
+116371	7157	TP53	HP:0002017	Nausea and vomiting
+116372	7157	TP53	HP:0002027	Abdominal pain
+116373	7157	TP53	HP:0002013	Vomiting
+116374	7157	TP53	HP:0100526	Neoplasm of the lung
+116375	7157	TP53	HP:0002086	Abnormality of the respiratory system
+116376	7157	TP53	HP:0100543	Cognitive impairment
+116377	7157	TP53	HP:0002069	Bilateral tonic-clonic seizure
+116378	7157	TP53	HP:0002039	Anorexia
+116379	7157	TP53	HP:0011748	Adrenocorticotropic hormone deficiency
+116380	7157	TP53	HP:0100576	Amaurosis fugax
+116381	7157	TP53	HP:0100592	Peritoneal abscess
+116382	7157	TP53	HP:0040270	Impaired glucose tolerance
+116383	7157	TP53	HP:0003466	Paradoxical increased cortisol secretion on dexamethasone suppression test
+116384	7157	TP53	HP:0003418	Back pain
+116385	7157	TP53	HP:0011875	Abnormal platelet morphology
+116386	7157	TP53	HP:0008221	Adrenal hyperplasia
+116387	7157	TP53	HP:0003401	Paresthesia
+116388	7157	TP53	HP:0008291	Pituitary corticotropic cell adenoma
+116389	7157	TP53	HP:0009592	Astrocytoma
+116390	7157	TP53	HP:0003593	Infantile onset
+116391	7157	TP53	HP:0002254	Intermittent diarrhea
+116392	7157	TP53	HP:0003581	Adult onset
+116393	7157	TP53	HP:0002209	Sparse scalp hair
+116394	7157	TP53	HP:0002206	Pulmonary fibrosis
+116395	7157	TP53	HP:0100768	Choriocarcinoma
+116396	7157	TP53	HP:0008404	Nail dystrophy
+116397	7157	TP53	HP:0100787	Prostate neoplasm
+116398	7157	TP53	HP:0009726	Renal neoplasm
+116399	7157	TP53	HP:0100743	Neoplasm of the rectum
+116400	7157	TP53	HP:0100749	Chest pain
+116401	7157	TP53	HP:0011999	Paranoia
+116402	7157	TP53	HP:0011974	Myelofibrosis
+116403	7157	TP53	HP:0004808	Acute myeloid leukemia
+116404	7157	TP53	HP:0001058	Poor wound healing
+116405	7157	TP53	HP:0001050	Plethora
+116406	7157	TP53	HP:0025017	Capillary fragility
+116407	7157	TP53	HP:0001065	Striae distensae
+116408	7157	TP53	HP:0001061	Acne
+116409	7157	TP53	HP:0001007	Hirsutism
+116410	7157	TP53	HP:0002354	Memory impairment
+116411	7157	TP53	HP:0002315	Headache
+116412	7157	TP53	HP:0002326	Transient ischemic attack
+116413	7157	TP53	HP:0200022	Choroid plexus papilloma
+116414	7157	TP53	HP:0100659	Abnormal cerebral vascular morphology
+116415	7157	TP53	HP:0100605	Neoplasm of the larynx
+116416	7157	TP53	HP:0200063	Colorectal polyposis
+116417	7157	TP53	HP:0100615	Ovarian neoplasm
+116418	7157	TP53	HP:0100630	Neoplasia of the nasopharynx
+116419	7157	TP53	HP:0200042	Skin ulcer
+116420	7157	TP53	HP:0001085	Papilledema
+116421	7157	TP53	HP:0010788	Testicular neoplasm
+116422	7157	TP53	HP:0007126	Proximal amyotrophy
+116423	7157	TP53	HP:0010741	Pedal edema
+116424	7157	TP53	HP:0003623	Neonatal onset
+116425	7157	TP53	HP:0004936	Venous thrombosis
+116426	7157	TP53	HP:0005513	Increased megakaryocyte count
+116427	7157	TP53	HP:0031845	Abnormal libido
+116428	7157	TP53	HP:0031891	Decreased eosinophil count
+116429	7157	TP53	HP:0005584	Renal cell carcinoma
+116430	7157	TP53	HP:0005561	Abnormality of bone marrow cell morphology
+116431	7157	TP53	HP:0001962	Palpitations
+116432	7157	TP53	HP:0001974	Leukocytosis
+116433	7157	TP53	HP:0001945	Fever
+116434	7157	TP53	HP:0001956	Truncal obesity
+116435	7157	TP53	HP:0001939	Abnormality of metabolism/homeostasis
+116436	7157	TP53	HP:0001909	Leukemia
+116437	7157	TP53	HP:0001903	Anemia
+116438	7157	TP53	HP:0011370	Recurrent cutaneous fungal infections
+116439	7157	TP53	HP:0012639	Abnormal nervous system morphology
+116440	7157	TP53	HP:0004324	Increased body weight
+116441	7157	TP53	HP:0004322	Short stature
+116442	7157	TP53	HP:0003002	Breast carcinoma
+116443	7157	TP53	HP:0003003	Colon cancer
+116444	7157	TP53	HP:0004313	Decreased circulating antibody level
+116445	7157	TP53	HP:0004389	Intestinal pseudo-obstruction
+116446	7157	TP53	HP:0004396	Poor appetite
+116447	7157	TP53	HP:0004374	Hemiplegia/hemiparesis
+116448	7157	TP53	HP:0003010	Prolonged bleeding time
+116449	7157	TP53	HP:0012743	Abdominal obesity
+116450	7157	TP53	HP:0100006	Neoplasm of the central nervous system
+116451	7157	TP53	HP:0000737	Irritability
+116452	7157	TP53	HP:0000739	Anxiety
+116453	7157	TP53	HP:0000716	Depression
+116454	7157	TP53	HP:0000712	Emotional lability
+116455	7157	TP53	HP:0000726	Dementia
+116456	7157	TP53	HP:0000725	Psychotic episodes
+116457	7157	TP53	HP:0000709	Psychosis
+116458	7157	TP53	HP:0000708	Atypical behavior
+116459	7157	TP53	HP:0003110	Abnormality of urine homeostasis
+116460	7157	TP53	HP:0003118	Increased circulating cortisol level
+116461	7157	TP53	HP:0004420	Arterial thrombosis
+116462	7157	TP53	HP:0003154	Increased circulating ACTH level
+116463	7157	TP53	HP:0003155	Elevated circulating alkaline phosphatase concentration
+116464	7157	TP53	HP:0000876	Oligomenorrhea
+116465	7157	TP53	HP:0000859	Hyperaldosteronism
+116466	7157	TP53	HP:0000869	Secondary amenorrhea
+116467	7157	TP53	HP:0000819	Diabetes mellitus
+116468	7157	TP53	HP:0000822	Hypertension
+116469	7157	TP53	HP:0010284	Intra-oral hyperpigmentation
+116470	7157	TP53	HP:0045040	Abnormal lactate dehydrogenase level
+116471	7157	TP53	HP:0000998	Hypertrichosis
+116472	7157	TP53	HP:0000979	Purpura
+116473	7157	TP53	HP:0000975	Hyperhidrosis
+116474	7157	TP53	HP:0000978	Bruising susceptibility
+116475	7157	TP53	HP:0000953	Hyperpigmentation of the skin
+116476	7157	TP53	HP:0000952	Jaundice
+116477	7157	TP53	HP:0000963	Thin skin
+116478	7157	TP53	HP:0000939	Osteoporosis
+116479	7157	TP53	HP:0000944	Abnormal metaphysis morphology
+116480	7157	TP53	HP:0012288	Neoplasm of head and neck
+116481	7157	TP53	HP:0031413	Short telomere length
+116482	7157	TP53	HP:0030070	Central primitive neuroectodermal tumor
+116483	7157	TP53	HP:0030078	Lung adenocarcinoma
+116484	7157	TP53	HP:0000238	Hydrocephalus
+116485	7157	TP53	HP:0002896	Neoplasm of the liver
+116486	7157	TP53	HP:0000252	Microcephaly
+116487	7157	TP53	HP:0002894	Neoplasm of the pancreas
+116488	7157	TP53	HP:0002890	Thyroid carcinoma
+116489	7157	TP53	HP:0002891	Uterine leiomyosarcoma
+116490	7157	TP53	HP:0002888	Ependymoma
+116491	7157	TP53	HP:0002885	Medulloblastoma
+116492	7157	TP53	HP:0002861	Melanoma
+116493	7157	TP53	HP:0002859	Rhabdomyosarcoma
+116494	7157	TP53	HP:0002863	Myelodysplasia
+116495	7157	TP53	HP:0031364	Ecchymosis
+116496	7157	TP53	HP:0001510	Growth delay
+116497	7157	TP53	HP:0007807	Optic nerve compression
+116498	7157	TP53	HP:0030200	Fatiguable weakness of proximal limb muscles
+116499	7157	TP53	HP:0011027	Abnormal fallopian tube morphology
+116500	7157	TP53	HP:0006572	Subacute progressive viral hepatitis
+116501	7157	TP53	HP:0005249	Functional intestinal obstruction
+116502	7157	TP53	HP:0002910	Elevated hepatic transaminase
+116503	7157	TP53	HP:0002900	Hypokalemia
+116504	7157	TP53	HP:0006491	Abnormal tibial metaphysis morphology
+116505	7157	TP53	HP:0006489	Abnormal femoral metaphysis morphology
+116506	7157	TP53	HP:0012334	Extrahepatic cholestasis
+116507	7157	TP53	HP:0001658	Myocardial infarction
+116508	7157	TP53	HP:0001626	Abnormality of the cardiovascular system
+116509	7157	TP53	HP:0002953	Vertebral compression fracture
+116510	7157	TP53	HP:0001738	Exocrine pancreatic insufficiency
+116511	7157	TP53	HP:0031589	Suicidal ideation
+116512	7157	TP53	HP:0012432	Chronic fatigue
+116513	7157	TP53	HP:0012410	Pure red cell aplasia
+116514	7157	TP53	HP:0001744	Splenomegaly
+116515	7157	TP53	HP:0025709	Intermediate young adult onset
+116516	7157	TP53	HP:0006753	Neoplasm of the stomach
+116517	7157	TP53	HP:0006740	Transitional cell carcinoma of the bladder
+116518	7157	TP53	HP:0006744	Adrenocortical carcinoma
+116519	7157	TP53	HP:0006725	Pancreatic adenocarcinoma
+116520	7157	TP53	HP:0006716	Hereditary nonpolyposis colorectal carcinoma
+116521	7157	TP53	HP:0030406	Primary peritoneal carcinoma
+116522	7157	TP53	HP:0006721	Acute lymphoblastic leukemia
+116523	7157	TP53	HP:0030448	Soft tissue sarcoma
+116524	7157	TP53	HP:0001824	Weight loss
+116525	7157	TP53	HP:0000505	Visual impairment
+116526	7157	TP53	HP:0030348	Increased circulating androgen concentration
+116527	7157	TP53	HP:0001888	Lymphopenia
+116528	7157	TP53	HP:0012539	Non-Hodgkin lymphoma
+116529	7157	TP53	HP:0030392	Choroid plexus carcinoma
+116530	7157	TP53	HP:0001872	Abnormality of thrombocytes
+116531	7157	TP53	HP:0012531	Pain
+120284	7428	VHL	HP:0008629	Pulsatile tinnitus
+120285	7428	VHL	HP:0003745	Sporadic
+120286	7428	VHL	HP:0001297	Stroke
+120287	7428	VHL	HP:0025269	Panic attack
+120288	7428	VHL	HP:0001293	Cranial nerve compression
+120289	7428	VHL	HP:0002574	Episodic abdominal pain
+120290	7428	VHL	HP:0002516	Increased intracranial pressure
+120291	7428	VHL	HP:0033644	Elevated circulating erythropoietin concentration
+120292	7428	VHL	HP:0000096	Glomerular sclerosis
+120293	7428	VHL	HP:0000093	Proteinuria
+120294	7428	VHL	HP:0002664	Neoplasm
+120295	7428	VHL	HP:0001342	Cerebral hemorrhage
+120296	7428	VHL	HP:0000007	Autosomal recessive inheritance
+120297	7428	VHL	HP:0002668	Paraganglioma
+120298	7428	VHL	HP:0001337	Tremor
+120299	7428	VHL	HP:0000006	Autosomal dominant inheritance
+120300	7428	VHL	HP:0002666	Pheochromocytoma
+120301	7428	VHL	HP:0002641	Peripheral thrombosis
+120302	7428	VHL	HP:0002640	Hypertension associated with pheochromocytoma
+120303	7428	VHL	HP:0002619	Varicose veins
+120304	7428	VHL	HP:0002615	Hypotension
+120305	7428	VHL	HP:0031284	Flushing
+120306	7428	VHL	HP:0031207	Hepatic hemangioma
+120307	7428	VHL	HP:0002018	Nausea
+120308	7428	VHL	HP:0002027	Abdominal pain
+120309	7428	VHL	HP:0003334	Elevated circulating catecholamine level
+120310	7428	VHL	HP:0003345	Elevated urinary norepinephrine
+120311	7428	VHL	HP:0005954	Pulmonary capillary hemangiomatosis
+120312	7428	VHL	HP:0002092	Pulmonary arterial hypertension
+120313	7428	VHL	HP:0011703	Sinus tachycardia
+120314	7428	VHL	HP:0003484	Upper limb muscle weakness
+120315	7428	VHL	HP:0003418	Back pain
+120316	7428	VHL	HP:0010532	Paroxysmal vertigo
+120317	7428	VHL	HP:0008261	Pancreatic islet cell adenoma
+120318	7428	VHL	HP:0003593	Infantile onset
+120319	7428	VHL	HP:0003574	Positive regitine blocking test
+120320	7428	VHL	HP:0003528	Elevated calcitonin
+120321	7428	VHL	HP:0009711	Retinal capillary hemangioma
+120322	7428	VHL	HP:0009713	Spinal hemangioblastoma
+120323	7428	VHL	HP:0009715	Papillary cystadenoma of the epididymis
+120324	7428	VHL	HP:0100749	Chest pain
+120325	7428	VHL	HP:0011979	Elevated urinary dopamine
+120326	7428	VHL	HP:0011976	Elevated urinary catecholamines
+120327	7428	VHL	HP:0001050	Plethora
+120328	7428	VHL	HP:0001069	Episodic hyperhidrosis
+120329	7428	VHL	HP:0001028	Hemangioma
+120330	7428	VHL	HP:0002321	Vertigo
+120331	7428	VHL	HP:0002315	Headache
+120332	7428	VHL	HP:0002331	Recurrent paroxysmal headache
+120333	7428	VHL	HP:0001095	Hypertensive retinopathy
+120334	7428	VHL	HP:0001085	Papilledema
+120335	7428	VHL	HP:0009763	Limb pain
+120336	7428	VHL	HP:0003639	Elevated urinary epinephrine
+120337	7428	VHL	HP:0003621	Juvenile onset
+120338	7428	VHL	HP:0005584	Renal cell carcinoma
+120339	7428	VHL	HP:0005562	Multiple renal cysts
+120340	7428	VHL	HP:0006880	Cerebellar hemangioblastoma
+120341	7428	VHL	HP:0001962	Palpitations
+120342	7428	VHL	HP:0001920	Renal artery stenosis
+120343	7428	VHL	HP:0001900	Increased hemoglobin
+120344	7428	VHL	HP:0001901	Polycythemia
+120345	7428	VHL	HP:0009053	Distal lower limb muscle weakness
+120346	7428	VHL	HP:0003072	Hypercalcemia
+120347	7428	VHL	HP:0000739	Anxiety
+120348	7428	VHL	HP:0000740	Episodic paroxysmal anxiety
+120349	7428	VHL	HP:0011463	Childhood onset
+120350	7428	VHL	HP:0011462	Young adult onset
+120351	7428	VHL	HP:0000790	Hematuria
+120352	7428	VHL	HP:0000875	Episodic hypertension
+120353	7428	VHL	HP:0012819	Myocarditis
+120354	7428	VHL	HP:0000822	Hypertension
+120355	7428	VHL	HP:0040049	Macular edema
+120356	7428	VHL	HP:0000980	Pallor
+120357	7428	VHL	HP:0000975	Hyperhidrosis
+120358	7428	VHL	HP:0000957	Cafe-au-lait spot
+120359	7428	VHL	HP:0011675	Arrhythmia
+120360	7428	VHL	HP:0012222	Arachnoid hemangiomatosis
+120361	7428	VHL	HP:0002894	Neoplasm of the pancreas
+120362	7428	VHL	HP:0002864	Paraganglioma of head and neck
+120363	7428	VHL	HP:0001508	Failure to thrive
+120364	7428	VHL	HP:0012378	Fatigue
+120365	7428	VHL	HP:0001605	Vocal cord paralysis
+120366	7428	VHL	HP:0001618	Dysphonia
+120367	7428	VHL	HP:0005162	Abnormal left ventricular function
+120368	7428	VHL	HP:0000360	Tinnitus
+120369	7428	VHL	HP:0001649	Tachycardia
+120370	7428	VHL	HP:0001658	Myocardial infarction
+120371	7428	VHL	HP:0001635	Congestive heart failure
+120372	7428	VHL	HP:0001638	Cardiomyopathy
+120373	7428	VHL	HP:0000407	Sensorineural hearing impairment
+120374	7428	VHL	HP:0001737	Pancreatic cysts
+120375	7428	VHL	HP:0000405	Conductive hearing impairment
+120376	7428	VHL	HP:0000478	Abnormality of the eye
+120377	7428	VHL	HP:0006748	Adrenal pheochromocytoma
+120378	7428	VHL	HP:0006737	Extraadrenal pheochromocytoma
+120379	7428	VHL	HP:0030405	Pancreatic endocrine tumor
+120380	7428	VHL	HP:0030424	Epididymal cyst
+120381	7428	VHL	HP:0000519	Developmental cataract
+120382	7428	VHL	HP:0000526	Aniridia
+120383	7428	VHL	HP:0001824	Weight loss
+120384	7428	VHL	HP:0000572	Visual loss
+120385	7428	VHL	HP:0001899	Increased hematocrit
+120386	7428	VHL	HP:0030393	Endolymphatic sac tumor
+120387	7428	VHL	HP:0001898	Increased red blood cell mass
+120388	7428	VHL	HP:0000541	Retinal detachment
+121895	7486	WRN	HP:0003777	Pili torti
+121896	7486	WRN	HP:0100833	Neoplasm of the small intestine
+121897	7486	WRN	HP:0012060	Acral lentiginous melanoma
+121898	7486	WRN	HP:0012056	Cutaneous melanoma
+121899	7486	WRN	HP:0001387	Joint stiffness
+121900	7486	WRN	HP:0000035	Abnormal testis morphology
+121901	7486	WRN	HP:0007495	Prematurely aged appearance
+121902	7486	WRN	HP:0002664	Neoplasm
+121903	7486	WRN	HP:0002672	Gastrointestinal carcinoma
+121904	7486	WRN	HP:0000007	Autosomal recessive inheritance
+121905	7486	WRN	HP:0002669	Osteosarcoma
+121906	7486	WRN	HP:0002621	Atherosclerosis
+121907	7486	WRN	HP:0000144	Decreased fertility
+121908	7486	WRN	HP:0000135	Hypogonadism
+121909	7486	WRN	HP:0007618	Subcutaneous calcification
+121910	7486	WRN	HP:0005978	Type II diabetes mellitus
+121911	7486	WRN	HP:0100526	Neoplasm of the lung
+121912	7486	WRN	HP:0100585	Telangiectasia of the skin
+121913	7486	WRN	HP:0100578	Lipoatrophy
+121914	7486	WRN	HP:0010468	Aplasia/Hypoplasia of the testes
+121915	7486	WRN	HP:0002155	Hypertriglyceridemia
+121916	7486	WRN	HP:0003419	Low back pain
+121917	7486	WRN	HP:0002216	Premature graying of hair
+121918	7486	WRN	HP:0002211	White forelock
+121919	7486	WRN	HP:0002209	Sparse scalp hair
+121920	7486	WRN	HP:0010721	Abnormal hair whorl
+121921	7486	WRN	HP:0009726	Renal neoplasm
+121922	7486	WRN	HP:0002293	Alopecia of scalp
+121923	7486	WRN	HP:0100649	Neoplasm of the oral cavity
+121924	7486	WRN	HP:0100659	Abnormal cerebral vascular morphology
+121925	7486	WRN	HP:0100679	Lack of skin elasticity
+121926	7486	WRN	HP:0100615	Ovarian neoplasm
+121927	7486	WRN	HP:0200042	Skin ulcer
+121928	7486	WRN	HP:0200055	Small hand
+121929	7486	WRN	HP:0003621	Juvenile onset
+121930	7486	WRN	HP:0004322	Short stature
+121931	7486	WRN	HP:0031956	Elevated circulating aspartate aminotransferase concentration
+121932	7486	WRN	HP:0003002	Breast carcinoma
+121933	7486	WRN	HP:0031964	Elevated circulating alanine aminotransferase concentration
+121934	7486	WRN	HP:0004349	Reduced bone mineral density
+121935	7486	WRN	HP:0000765	Abnormal thorax morphology
+121936	7486	WRN	HP:0009125	Lipodystrophy
+121937	7486	WRN	HP:0004415	Pulmonary artery stenosis
+121938	7486	WRN	HP:0000855	Insulin resistance
+121939	7486	WRN	HP:0000869	Secondary amenorrhea
+121940	7486	WRN	HP:0100324	Scleroderma
+121941	7486	WRN	HP:0000819	Diabetes mellitus
+121942	7486	WRN	HP:0000822	Hypertension
+121943	7486	WRN	HP:0040217	Elevated hemoglobin A1c
+121944	7486	WRN	HP:0003202	Skeletal muscle atrophy
+121945	7486	WRN	HP:0000962	Hyperkeratosis
+121946	7486	WRN	HP:0000939	Osteoporosis
+121947	7486	WRN	HP:0000934	Chondrocalcinosis
+121948	7486	WRN	HP:0100242	Sarcoma
+121949	7486	WRN	HP:0008065	Aplasia/Hypoplasia of the skin
+121950	7486	WRN	HP:0007703	Abnormality of retinal pigmentation
+121951	7486	WRN	HP:0000275	Narrow face
+121952	7486	WRN	HP:0002890	Thyroid carcinoma
+121953	7486	WRN	HP:0002861	Melanoma
+121954	7486	WRN	HP:0002860	Squamous cell carcinoma
+121955	7486	WRN	HP:0002858	Meningioma
+121956	7486	WRN	HP:0001533	Slender build
+121957	7486	WRN	HP:0005268	Miscarriage
+121958	7486	WRN	HP:0001608	Abnormality of the voice
+121959	7486	WRN	HP:0001601	Laryngomalacia
+121960	7486	WRN	HP:0005177	Premature arteriosclerosis
+121961	7486	WRN	HP:0011001	Increased bone mineral density
+121962	7486	WRN	HP:0000320	Bird-like facies
+121963	7486	WRN	HP:0001658	Myocardial infarction
+121964	7486	WRN	HP:0001620	High pitched voice
+121965	7486	WRN	HP:0001635	Congestive heart failure
+121966	7486	WRN	HP:0005328	Progeroid facial appearance
+121967	7486	WRN	HP:0000444	Convex nasal ridge
+121968	7486	WRN	HP:0000518	Cataract
+121969	7486	WRN	HP:0001838	Rocker bottom foot
+121970	7486	WRN	HP:0000546	Retinal degeneration
+126893	8292	COLQ	HP:0002460	Distal muscle weakness
+126894	8292	COLQ	HP:0002421	Poor head control
+126895	8292	COLQ	HP:0003701	Proximal muscle weakness
+126896	8292	COLQ	HP:0001290	Generalized hypotonia
+126897	8292	COLQ	HP:0001284	Areflexia
+126898	8292	COLQ	HP:0001252	Hypotonia
+126899	8292	COLQ	HP:0001249	Intellectual disability
+126900	8292	COLQ	HP:0001265	Hyporeflexia
+126901	8292	COLQ	HP:0001260	Dysarthria
+126902	8292	COLQ	HP:0001263	Global developmental delay
+126903	8292	COLQ	HP:0002515	Waddling gait
+126904	8292	COLQ	HP:0003803	Type 1 muscle fiber predominance
+126905	8292	COLQ	HP:0008872	Feeding difficulties in infancy
+126906	8292	COLQ	HP:0001324	Muscle weakness
+126907	8292	COLQ	HP:0000007	Autosomal recessive inheritance
+126908	8292	COLQ	HP:0002650	Scoliosis
+126909	8292	COLQ	HP:0002643	Neonatal respiratory distress
+126910	8292	COLQ	HP:0001488	Bilateral ptosis
+126911	8292	COLQ	HP:0006251	Limited wrist extension
+126912	8292	COLQ	HP:0002783	Recurrent lower respiratory tract infections
+126913	8292	COLQ	HP:0002791	Hypoventilation
+126914	8292	COLQ	HP:0002747	Respiratory insufficiency due to muscle weakness
+126915	8292	COLQ	HP:0002033	Poor suck
+126916	8292	COLQ	HP:0003327	Axial muscle weakness
+126917	8292	COLQ	HP:0002015	Dysphagia
+126918	8292	COLQ	HP:0003307	Hyperlordosis
+126919	8292	COLQ	HP:0003324	Generalized muscle weakness
+126920	8292	COLQ	HP:0002098	Respiratory distress
+126921	8292	COLQ	HP:0002092	Pulmonary arterial hypertension
+126922	8292	COLQ	HP:0002093	Respiratory insufficiency
+126923	8292	COLQ	HP:0003398	Abnormal synaptic transmission at the neuromuscular junction
+126924	8292	COLQ	HP:0003388	Easy fatigability
+126925	8292	COLQ	HP:0003473	Fatigable weakness
+126926	8292	COLQ	HP:0003443	Decreased size of nerve terminals
+126927	8292	COLQ	HP:0003436	Prolonged miniature endplate currents
+126928	8292	COLQ	HP:0003403	EMG: decremental response of compound muscle action potential to repetitive nerve stimulation
+126929	8292	COLQ	HP:0010535	Sleep apnea
+126930	8292	COLQ	HP:0003593	Infantile onset
+126931	8292	COLQ	HP:0003577	Congenital onset
+126932	8292	COLQ	HP:0003554	Type 2 muscle fiber atrophy
+126933	8292	COLQ	HP:0010628	Facial palsy
+126934	8292	COLQ	HP:0003691	Scapular winging
+126935	8292	COLQ	HP:0003690	Limb muscle weakness
+126936	8292	COLQ	HP:0002359	Frequent falls
+126937	8292	COLQ	HP:0003621	Juvenile onset
+126938	8292	COLQ	HP:0001999	Abnormal facial shape
+126939	8292	COLQ	HP:0003198	Myopathy
+126940	8292	COLQ	HP:0003199	Decreased muscle mass
+126941	8292	COLQ	HP:0003202	Skeletal muscle atrophy
+126942	8292	COLQ	HP:0002815	Abnormality of the knee
+126943	8292	COLQ	HP:0000218	High palate
+126944	8292	COLQ	HP:0002875	Exertional dyspnea
+126945	8292	COLQ	HP:0000207	Triangular mouth
+126946	8292	COLQ	HP:0012379	Abnormal circulating enzyme concentration or activity
+126947	8292	COLQ	HP:0030203	Unfavorable response of muscle weakness to acetylcholine esterase inhibitors
+126948	8292	COLQ	HP:0030208	Anti-acetylcholine receptor antibody positivity
+126949	8292	COLQ	HP:0005216	Impaired mastication
+126950	8292	COLQ	HP:0001612	Weak cry
+126951	8292	COLQ	HP:0001667	Right ventricular hypertrophy
+126952	8292	COLQ	HP:0000303	Mandibular prognathia
+126953	8292	COLQ	HP:0007941	Limited extraocular movements
+126954	8292	COLQ	HP:0030211	Slow pupillary light response
+126955	8292	COLQ	HP:0030237	Hand muscle weakness
+126956	8292	COLQ	HP:0000467	Neck muscle weakness
+126957	8292	COLQ	HP:0001762	Talipes equinovarus
+126958	8292	COLQ	HP:0000508	Ptosis
+126959	8292	COLQ	HP:0000597	Ophthalmoparesis
+143403	9948	WDR1	HP:0010976	B lymphocytopenia
+143404	9948	WDR1	HP:0001328	Specific learning disability
+143405	9948	WDR1	HP:0000007	Autosomal recessive inheritance
+143406	9948	WDR1	HP:0025452	Pyoderma gangrenosum
+143407	9948	WDR1	HP:0002719	Recurrent infections
+143408	9948	WDR1	HP:0002716	Lymphadenopathy
+143409	9948	WDR1	HP:0002014	Diarrhea
+143410	9948	WDR1	HP:0002110	Bronchiectasis
+143411	9948	WDR1	HP:0004854	Intermittent thrombocytopenia
+143412	9948	WDR1	HP:0009098	Chronic oral candidiasis
+143413	9948	WDR1	HP:0001954	Recurrent fever
+143414	9948	WDR1	HP:0031394	Abnormal CD4:CD8 ratio
+143415	9948	WDR1	HP:0006532	Recurrent pneumonia
+143416	9948	WDR1	HP:0025615	Abscess
+143417	9948	WDR1	HP:0011107	Recurrent aphthous stomatitis
+143418	9948	WDR1	HP:0001744	Splenomegaly
+143419	9948	WDR1	HP:0001875	Neutropenia
+156216	22800	RRAS2	HP:0001156	Brachydactyly
+156217	22800	RRAS2	HP:0001270	Motor delay
+156218	22800	RRAS2	HP:0001252	Hypotonia
+156219	22800	RRAS2	HP:0001260	Dysarthria
+156220	22800	RRAS2	HP:0000078	Abnormality of the genital system
+156221	22800	RRAS2	HP:0000044	Hypogonadotropic hypogonadism
+156222	22800	RRAS2	HP:0000028	Cryptorchidism
+156223	22800	RRAS2	HP:0008872	Feeding difficulties in infancy
+156224	22800	RRAS2	HP:0007477	Abnormal dermatoglyphics
+156225	22800	RRAS2	HP:0001324	Muscle weakness
+156226	22800	RRAS2	HP:0000006	Autosomal dominant inheritance
+156227	22800	RRAS2	HP:0002650	Scoliosis
+156228	22800	RRAS2	HP:0000179	Thick lower lip vermilion
+156229	22800	RRAS2	HP:0002750	Delayed skeletal maturation
+156230	22800	RRAS2	HP:0011800	Midface retrusion
+156231	22800	RRAS2	HP:0002119	Ventriculomegaly
+156232	22800	RRAS2	HP:0003416	Spinal canal stenosis
+156233	22800	RRAS2	HP:0009623	Proximal placement of thumb
+156234	22800	RRAS2	HP:0002167	Abnormality of speech or vocalization
+156235	22800	RRAS2	HP:0002162	Low posterior hairline
+156236	22800	RRAS2	HP:0011869	Abnormal platelet function
+156237	22800	RRAS2	HP:0002240	Hepatomegaly
+156238	22800	RRAS2	HP:0002208	Coarse hair
+156239	22800	RRAS2	HP:0100763	Abnormality of the lymphatic system
+156240	22800	RRAS2	HP:0001047	Atopic dermatitis
+156241	22800	RRAS2	HP:0001004	Lymphedema
+156242	22800	RRAS2	HP:0001076	Glabellar hemangioma
+156243	22800	RRAS2	HP:0100625	Enlarged thorax
+156244	22800	RRAS2	HP:0002308	Chiari malformation
+156245	22800	RRAS2	HP:0004209	Clinodactyly of the 5th finger
+156246	22800	RRAS2	HP:0000639	Nystagmus
+156247	22800	RRAS2	HP:0000646	Amblyopia
+156248	22800	RRAS2	HP:0001928	Abnormality of coagulation
+156249	22800	RRAS2	HP:0011381	Aplasia of the semicircular canal
+156250	22800	RRAS2	HP:0011362	Abnormal hair quantity
+156251	22800	RRAS2	HP:0011342	Mild global developmental delay
+156252	22800	RRAS2	HP:0004322	Short stature
+156253	22800	RRAS2	HP:0030680	Abnormality of cardiovascular system morphology
+156254	22800	RRAS2	HP:0004381	Supravalvular aortic stenosis
+156255	22800	RRAS2	HP:0005692	Joint hyperflexibility
+156256	22800	RRAS2	HP:0000767	Pectus excavatum
+156257	22800	RRAS2	HP:0000768	Pectus carinatum
+156258	22800	RRAS2	HP:0004415	Pulmonary artery stenosis
+156259	22800	RRAS2	HP:0000878	11 pairs of ribs
+156260	22800	RRAS2	HP:0000824	Decreased response to growth hormone stimulation test
+156261	22800	RRAS2	HP:0000995	Melanocytic nevus
+156262	22800	RRAS2	HP:0010318	Aplasia/Hypoplasia of the abdominal wall musculature
+156263	22800	RRAS2	HP:0011675	Arrhythmia
+156264	22800	RRAS2	HP:0000218	High palate
+156265	22800	RRAS2	HP:0001545	Anteriorly placed anus
+156266	22800	RRAS2	HP:0001561	Polyhydramnios
+156267	22800	RRAS2	HP:0000391	Thickened helices
+156268	22800	RRAS2	HP:0000368	Low-set, posteriorly rotated ears
+156269	22800	RRAS2	HP:0000348	High forehead
+156270	22800	RRAS2	HP:0000347	Micrognathia
+156271	22800	RRAS2	HP:0000316	Hypertelorism
+156272	22800	RRAS2	HP:0002974	Radioulnar synostosis
+156273	22800	RRAS2	HP:0000325	Triangular face
+156274	22800	RRAS2	HP:0001629	Ventricular septal defect
+156275	22800	RRAS2	HP:0001641	Abnormal pulmonary valve morphology
+156276	22800	RRAS2	HP:0001636	Tetralogy of Fallot
+156277	22800	RRAS2	HP:0006610	Wide intermamillary distance
+156278	22800	RRAS2	HP:0000407	Sensorineural hearing impairment
+156279	22800	RRAS2	HP:0000486	Strabismus
+156280	22800	RRAS2	HP:0000476	Cystic hygroma
+156281	22800	RRAS2	HP:0000494	Downslanted palpebral fissures
+156282	22800	RRAS2	HP:0000474	Thickened nuchal skin fold
+156283	22800	RRAS2	HP:0000465	Webbed neck
+156284	22800	RRAS2	HP:0001743	Abnormality of the spleen
+156285	22800	RRAS2	HP:0000520	Proptosis
+156286	22800	RRAS2	HP:0000508	Ptosis
+156287	22800	RRAS2	HP:0001892	Abnormal bleeding
+156288	22800	RRAS2	HP:0001888	Lymphopenia
+156289	22800	RRAS2	HP:0000565	Esotropia
+156290	22800	RRAS2	HP:0000540	Hypermetropia
+156291	22800	RRAS2	HP:0001873	Thrombocytopenia
+158264	23022	PALLD	HP:0025318	Ovarian carcinoma
+158265	23022	PALLD	HP:0000006	Autosomal dominant inheritance
+158266	23022	PALLD	HP:0001433	Hepatosplenomegaly
+158267	23022	PALLD	HP:0002716	Lymphadenopathy
+158268	23022	PALLD	HP:0002017	Nausea and vomiting
+158269	23022	PALLD	HP:0002027	Abdominal pain
+158270	23022	PALLD	HP:0002039	Anorexia
+158271	23022	PALLD	HP:0100592	Peritoneal abscess
+158272	23022	PALLD	HP:0003418	Back pain
+158273	23022	PALLD	HP:0002254	Intermittent diarrhea
+158274	23022	PALLD	HP:0003002	Breast carcinoma
+158275	23022	PALLD	HP:0003003	Colon cancer
+158276	23022	PALLD	HP:0004389	Intestinal pseudo-obstruction
+158277	23022	PALLD	HP:0004396	Poor appetite
+158278	23022	PALLD	HP:0000819	Diabetes mellitus
+158279	23022	PALLD	HP:0000952	Jaundice
+158280	23022	PALLD	HP:0002896	Neoplasm of the liver
+158281	23022	PALLD	HP:0002861	Melanoma
+158282	23022	PALLD	HP:0005249	Functional intestinal obstruction
+158283	23022	PALLD	HP:0002910	Elevated hepatic transaminase
+158284	23022	PALLD	HP:0012334	Extrahepatic cholestasis
+158285	23022	PALLD	HP:0001738	Exocrine pancreatic insufficiency
+158286	23022	PALLD	HP:0012432	Chronic fatigue
+158287	23022	PALLD	HP:0006725	Pancreatic adenocarcinoma
+158288	23022	PALLD	HP:0001824	Weight loss
+160291	23236	PLCB1	HP:0001257	Spasticity
+160292	23236	PLCB1	HP:0007359	Focal-onset seizure
+160293	23236	PLCB1	HP:0002521	Hypsarrhythmia
+160294	23236	PLCB1	HP:0001347	Hyperreflexia
+160295	23236	PLCB1	HP:0000007	Autosomal recessive inheritance
+160296	23236	PLCB1	HP:0001336	Myoclonus
+160297	23236	PLCB1	HP:0008936	Axial hypotonia
+160298	23236	PLCB1	HP:0002069	Bilateral tonic-clonic seizure
+160299	23236	PLCB1	HP:0003593	Infantile onset
+160300	23236	PLCB1	HP:0200134	Epileptic encephalopathy
+160301	23236	PLCB1	HP:0002376	Developmental regression
+160302	23236	PLCB1	HP:0000707	Abnormality of the nervous system
+160303	23236	PLCB1	HP:0011097	Epileptic spasm
+160304	23236	PLCB1	HP:0032792	Tonic seizure
+160305	23236	PLCB1	HP:0012469	Infantile spasms
+160306	23236	PLCB1	HP:0011121	Abnormality of skin morphology
+184003	54894	RNF43	HP:0032222	Serrated intestinal polyps
+184004	54894	RNF43	HP:0100808	Gastric diverticulum
+184005	54894	RNF43	HP:0100834	Neoplasm of the large intestine
+184006	54894	RNF43	HP:0000006	Autosomal dominant inheritance
+184007	54894	RNF43	HP:0012189	Hodgkin lymphoma
+184008	54894	RNF43	HP:0012125	Prostate cancer
+184009	54894	RNF43	HP:0100574	Biliary tract neoplasm
+184010	54894	RNF43	HP:0100728	Germ cell neoplasia
+184011	54894	RNF43	HP:0200063	Colorectal polyposis
+184012	54894	RNF43	HP:0100615	Ovarian neoplasm
+184013	54894	RNF43	HP:0003002	Breast carcinoma
+184014	54894	RNF43	HP:0100008	Schwannoma
+184015	54894	RNF43	HP:0002861	Melanoma
+184016	54894	RNF43	HP:0002862	Bladder carcinoma
+184017	54894	RNF43	HP:0005227	Adenomatous colonic polyposis
+184018	54894	RNF43	HP:0006725	Pancreatic adenocarcinoma
+199262	63976	PRDM16	HP:0001156	Brachydactyly
+199263	63976	PRDM16	HP:0002465	Poor speech
+199264	63976	PRDM16	HP:0001107	Ocular albinism
+199265	63976	PRDM16	HP:0025169	Left ventricular systolic dysfunction
+199266	63976	PRDM16	HP:0025168	Left ventricular diastolic dysfunction
+199267	63976	PRDM16	HP:0008551	Microtia
+199268	63976	PRDM16	HP:0001274	Agenesis of corpus callosum
+199269	63976	PRDM16	HP:0001288	Gait disturbance
+199270	63976	PRDM16	HP:0001250	Seizure
+199271	63976	PRDM16	HP:0001252	Hypotonia
+199272	63976	PRDM16	HP:0001249	Intellectual disability
+199273	63976	PRDM16	HP:0002591	Polyphagia
+199274	63976	PRDM16	HP:0001263	Global developmental delay
+199275	63976	PRDM16	HP:0008736	Hypoplasia of penis
+199276	63976	PRDM16	HP:0001397	Hepatic steatosis
+199277	63976	PRDM16	HP:0001392	Abnormality of the liver
+199278	63976	PRDM16	HP:0000077	Abnormality of the kidney
+199279	63976	PRDM16	HP:0000055	Abnormality of female external genitalia
+199280	63976	PRDM16	HP:0001385	Hip dysplasia
+199281	63976	PRDM16	HP:0001387	Joint stiffness
+199282	63976	PRDM16	HP:0000047	Hypospadias
+199283	63976	PRDM16	HP:0000028	Cryptorchidism
+199284	63976	PRDM16	HP:0008872	Feeding difficulties in infancy
+199285	63976	PRDM16	HP:0001344	Absent speech
+199286	63976	PRDM16	HP:0000006	Autosomal dominant inheritance
+199287	63976	PRDM16	HP:0002650	Scoliosis
+199288	63976	PRDM16	HP:0000160	Narrow mouth
+199289	63976	PRDM16	HP:0000135	Hypogonadism
+199290	63976	PRDM16	HP:0000126	Hydronephrosis
+199291	63976	PRDM16	HP:0000107	Renal cyst
+199292	63976	PRDM16	HP:0002715	Abnormality of the immune system
+199293	63976	PRDM16	HP:0002021	Pyloric stenosis
+199294	63976	PRDM16	HP:0002020	Gastroesophageal reflux
+199295	63976	PRDM16	HP:0002019	Constipation
+199296	63976	PRDM16	HP:0002015	Dysphagia
+199297	63976	PRDM16	HP:0002007	Frontal bossing
+199298	63976	PRDM16	HP:0011800	Midface retrusion
+199299	63976	PRDM16	HP:0100559	Lower limb asymmetry
+199300	63976	PRDM16	HP:0100578	Lipoatrophy
+199301	63976	PRDM16	HP:0002120	Cerebral cortical atrophy
+199302	63976	PRDM16	HP:0002119	Ventriculomegaly
+199303	63976	PRDM16	HP:0003457	EMG abnormality
+199304	63976	PRDM16	HP:0003416	Spinal canal stenosis
+199305	63976	PRDM16	HP:0002167	Abnormality of speech or vocalization
+199306	63976	PRDM16	HP:0100490	Camptodactyly of finger
+199307	63976	PRDM16	HP:0002242	Abnormal intestine morphology
+199308	63976	PRDM16	HP:0100716	Self-injurious behavior
+199309	63976	PRDM16	HP:0002230	Generalized hirsutism
+199310	63976	PRDM16	HP:0001009	Telangiectasia
+199311	63976	PRDM16	HP:0002353	EEG abnormality
+199312	63976	PRDM16	HP:0008499	High hypermetropia
+199313	63976	PRDM16	HP:0003621	Juvenile onset
+199314	63976	PRDM16	HP:0004209	Clinodactyly of the 5th finger
+199315	63976	PRDM16	HP:0006824	Cranial nerve paralysis
+199316	63976	PRDM16	HP:0000639	Nystagmus
+199317	63976	PRDM16	HP:0000648	Optic atrophy
+199318	63976	PRDM16	HP:0004322	Short stature
+199319	63976	PRDM16	HP:0030680	Abnormality of cardiovascular system morphology
+199320	63976	PRDM16	HP:0030682	Left ventricular noncompaction
+199321	63976	PRDM16	HP:0004378	Abnormality of the anus
+199322	63976	PRDM16	HP:0004374	Hemiplegia/hemiparesis
+199323	63976	PRDM16	HP:0003006	Neuroblastoma
+199324	63976	PRDM16	HP:0012733	Macule
+199325	63976	PRDM16	HP:0000733	Abnormal repetitive mannerisms
+199326	63976	PRDM16	HP:0000750	Delayed speech and language development
+199327	63976	PRDM16	HP:0000717	Autism
+199328	63976	PRDM16	HP:0000708	Atypical behavior
+199329	63976	PRDM16	HP:0011462	Young adult onset
+199330	63976	PRDM16	HP:0003198	Myopathy
+199331	63976	PRDM16	HP:0000902	Rib fusion
+199332	63976	PRDM16	HP:0000878	11 pairs of ribs
+199333	63976	PRDM16	HP:0000892	Bifid ribs
+199334	63976	PRDM16	HP:0000821	Hypothyroidism
+199335	63976	PRDM16	HP:0003236	Elevated circulating creatine kinase concentration
+199336	63976	PRDM16	HP:0000982	Palmoplantar keratoderma
+199337	63976	PRDM16	HP:0008066	Abnormal blistering of the skin
+199338	63976	PRDM16	HP:0011675	Arrhythmia
+199339	63976	PRDM16	HP:0000286	Epicanthus
+199340	63976	PRDM16	HP:0000270	Delayed cranial suture closure
+199341	63976	PRDM16	HP:0005113	Aortic arch aneurysm
+199342	63976	PRDM16	HP:0002808	Kyphosis
+199343	63976	PRDM16	HP:0000252	Microcephaly
+199344	63976	PRDM16	HP:0000248	Brachycephaly
+199345	63976	PRDM16	HP:0001508	Failure to thrive
+199346	63976	PRDM16	HP:0001513	Obesity
+199347	63976	PRDM16	HP:0000368	Low-set, posteriorly rotated ears
+199348	63976	PRDM16	HP:0001671	Abnormal cardiac septum morphology
+199349	63976	PRDM16	HP:0000343	Long philtrum
+199350	63976	PRDM16	HP:0001643	Patent ductus arteriosus
+199351	63976	PRDM16	HP:0001644	Dilated cardiomyopathy
+199352	63976	PRDM16	HP:0001654	Abnormal heart valve morphology
+199353	63976	PRDM16	HP:0001653	Mitral regurgitation
+199354	63976	PRDM16	HP:0001636	Tetralogy of Fallot
+199355	63976	PRDM16	HP:0001635	Congestive heart failure
+199356	63976	PRDM16	HP:0000307	Pointed chin
+199357	63976	PRDM16	HP:0000407	Sensorineural hearing impairment
+199358	63976	PRDM16	HP:0001734	Annular pancreas
+199359	63976	PRDM16	HP:0000405	Conductive hearing impairment
+199360	63976	PRDM16	HP:0005280	Depressed nasal bridge
+199361	63976	PRDM16	HP:0000486	Strabismus
+199362	63976	PRDM16	HP:0000490	Deeply set eye
+199363	63976	PRDM16	HP:0000464	Abnormality of the neck
+199364	63976	PRDM16	HP:0000457	Depressed nasal ridge
+199365	63976	PRDM16	HP:0001773	Short foot
+199366	63976	PRDM16	HP:0001743	Abnormality of the spleen
+199367	63976	PRDM16	HP:0000431	Wide nasal bridge
+199368	63976	PRDM16	HP:0000518	Cataract
+199369	63976	PRDM16	HP:0001829	Foot polydactyly
+199370	63976	PRDM16	HP:0000505	Visual impairment
+199371	63976	PRDM16	HP:0000504	Abnormality of vision
+199372	63976	PRDM16	HP:0011228	Horizontal eyebrow
+199373	63976	PRDM16	HP:0000534	Abnormal eyebrow morphology
+199374	63976	PRDM16	HP:0001874	Abnormality of neutrophils
+233076	339855	KY	HP:0003798	Nemaline bodies
+233077	339855	KY	HP:0020203	Z-band streaming
+233078	339855	KY	HP:0007210	Lower limb amyotrophy
+233079	339855	KY	HP:0001272	Cerebellar atrophy
+233080	339855	KY	HP:0001249	Intellectual disability
+233081	339855	KY	HP:0001265	Hyporeflexia
+233082	339855	KY	HP:0001263	Global developmental delay
+233083	339855	KY	HP:0001371	Flexion contracture
+233084	339855	KY	HP:0000020	Urinary incontinence
+233085	339855	KY	HP:0001324	Muscle weakness
+233086	339855	KY	HP:0000007	Autosomal recessive inheritance
+233087	339855	KY	HP:0002650	Scoliosis
+233088	339855	KY	HP:0002607	Bowel incontinence
+233089	339855	KY	HP:0025435	Increased circulating lactate dehydrogenase concentration
+233090	339855	KY	HP:0008997	Proximal muscle weakness in upper limbs
+233091	339855	KY	HP:0002751	Kyphoscoliosis
+233092	339855	KY	HP:0003326	Myalgia
+233093	339855	KY	HP:0002015	Dysphagia
+233094	339855	KY	HP:0003306	Spinal rigidity
+233095	339855	KY	HP:0003394	Muscle spasm
+233096	339855	KY	HP:0002061	Lower limb spasticity
+233097	339855	KY	HP:0002059	Cerebral atrophy
+233098	339855	KY	HP:0003487	Babinski sign
+233099	339855	KY	HP:0010602	Type 2 muscle fiber predominance
+233100	339855	KY	HP:0002194	Delayed gross motor development
+233101	339855	KY	HP:0003577	Congenital onset
+233102	339855	KY	HP:0003557	Increased variability in muscle fiber diameter
+233103	339855	KY	HP:0010677	Enuresis nocturna
+233104	339855	KY	HP:0007020	Progressive spastic paraplegia
+233105	339855	KY	HP:0010628	Facial palsy
+233106	339855	KY	HP:0002395	Lower limb hyperreflexia
+233107	339855	KY	HP:0003698	Difficulty standing
+233108	339855	KY	HP:0002355	Difficulty walking
+233109	339855	KY	HP:0003677	Slowly progressive
+233110	339855	KY	HP:0009046	Difficulty running
+233111	339855	KY	HP:0009027	Foot dorsiflexor weakness
+233112	339855	KY	HP:0003044	Shoulder flexion contracture
+233113	339855	KY	HP:0009129	Upper limb amyotrophy
+233114	339855	KY	HP:0003093	Limited hip extension
+233115	339855	KY	HP:0040081	Abnormal circulating creatine kinase concentration
+233116	339855	KY	HP:0003236	Elevated circulating creatine kinase concentration
+233117	339855	KY	HP:0003202	Skeletal muscle atrophy
+233118	339855	KY	HP:0033008	Increased Z-disc width
+233119	339855	KY	HP:0002828	Multiple joint contractures
+233120	339855	KY	HP:0006380	Knee flexion contracture
+233121	339855	KY	HP:0030051	Tip-toe gait
+233122	339855	KY	HP:0002938	Lumbar hyperlordosis
+233123	339855	KY	HP:0002942	Thoracic kyphosis
+233124	339855	KY	HP:0002987	Elbow flexion contracture
+233125	339855	KY	HP:0012473	Tongue atrophy
+233126	339855	KY	HP:0001771	Achilles tendon contracture
+233127	339855	KY	HP:0001762	Talipes equinovarus
+233128	339855	KY	HP:0001761	Pes cavus
+233129	339855	KY	HP:0012531	Pain
